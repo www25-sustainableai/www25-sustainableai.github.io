@@ -1,123 +1,47 @@
 ---
 layout: default
+title: CVPR 2024 Workshop on Responsible Data
+description: WRD24 @ CVPR 2024
+---
+The development of large-scale datasets has been essential to the progress of machine learning and artificial intelligence. However, many of these datasets are not inclusive or diverse - particularly computer vision datasets, which can lead to biased models and algorithms. This workshop will bring together practitioners and researchers to discuss the challenges and opportunities of building more responsible datasets.
+
+The workshop will cover a range of topics, including:
+
++ Moving beyond pragmatism and implementation of context and consent-driven procedures in dataset development
++ What are the main themes when it comes to responsible datasets? Are there specific benchmarks currently utilized?
++ Challenges, risks and benefits of collecting gender, race, skin tone, physical attributes, accessibility data, and other person attributes.
++ What are the best practices when training individuals for data collection and annotators? To what extent does diversity matter when it comes to data collection and annotators? How the organizational structures of these businesses and the ecosystem of stakeholders contribute to the responsible dimension of the datasets?
++ What are the new considerations in a world of pretrained models and synthetic data?
++ How should we build responsible datasets for generative AI models and applications?
++ How do we quantitatively measure how responsible a dataset is?
++ What does Transparency translate to in the context of dataset development?
++ How do notions of Data Privacy like those articulated in proposals such as the Blueprint for an Bill of Rights translate to building towards responsible datasets?
++ How do we build a framework for Dataset Accountability?
++ How should we best engage the open source community when building, updating, and maintaining datasets?
++ State of Affairs: a summary of progress to date - how responsible datasets have evolved. What best practices can be leveraged more broadly?
+
+Post workshop, we plan to write a white paper summarizing the round table discussions and opinions from experts in the field (with necessary permissions). We will also follow through with making a community space on discord (or similar platform) to continue the community building and collaboration post-workshop.
+
+---
+## **Call for Papers** {#call}
+
+## **Important Dates** {#dates}
+> TBA!
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## **Schedule** {#schedule}
+> TBA!
 
-[Link to another page](./another-page.html).
+---
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## **Keynote Speakers** {#speakers}
 
 
-### Definition lists can be used with HTML syntax.
+---
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## **Contact** {#contact}
+Contact the organizers at **[responsibledata@googlegroups.com](mailto:responsibledata@googlegroups.com)**
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+---
+## **Organizers** {#organizers}
