@@ -59,16 +59,16 @@ Submission Deadline: March 31, 2024
 ## **Panelists** {#panelists}
 <div class="container">
 <figure>
-    <a href="">
+    <a href="https://www.linkedin.com/in/naticatalan/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/NatiCatalan.jpeg" alt="Nati Catalan"/></a>
-    <b><br><a href="">Nati Catalan</a>
+    <b><br><a href="https://www.linkedin.com/in/naticatalan/">Nati Catalan</a>
     <br>Co-Founder<br>Tasq.ai</b>
 </figure>
 
 <figure>
-    <a href="">
+    <a href="https://www.linkedin.com/in/sven-cattell-5748a311/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/SvenCattell.jpeg" alt="Sven Cattell"/></a>
-    <b><br><a href="">Sven Cattell</a>
+    <b><br><a href="https://www.linkedin.com/in/sven-cattell-5748a311/">Sven Cattell</a>
     <br>Founder of AI Village<br>nbhd.ai</b>
 </figure>
 </div>
@@ -88,7 +88,7 @@ Submission Deadline: March 31, 2024
 <figure>
     <a href="https://hazirbas.com/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/CanerHazirbas.jpeg" alt="Caner Hazirbas"/></a>
-    <b><br><a href="https://hazirbas.com/">Caner Hazirbas</a>
+    <b><br><a href="https://hazirbas.com/">Caner Hazirbas (He/Him)</a>
     <br>Research Scientist<br>Meta AI</b>
 </figure>
 
@@ -144,14 +144,14 @@ Submission Deadline: March 31, 2024
 <figure>
     <a href="https://cristiancanton.github.io/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/CristianCantonFerrer.jpeg" alt="Cristian Canton Ferrer"/></a>
-    <b><br><a href="https://cristiancanton.github.io/">Cristian Canton Ferrer</a>
+    <b><br><a href="https://cristiancanton.github.io/">Cristian Canton Ferrer (He/Him)</a>
     <br>Head of GenAI Trust & Safety<br>Meta AI</b>
 </figure>
 
 <figure>
-    <a href="">
+    <a href="https://www.linkedin.com/in/jessholbrook/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/JessHolbrook.jpeg" alt="Jess Holbrook"/></a>
-    <b><br><a href="">Jess Holbrook</a>
+    <b><br><a href="https://www.linkedin.com/in/jessholbrook/">Jess Holbrook (He/Him)</a>
     <br>Director and Principal Researcher, GenAI<br>Meta AI</b>
 </figure>
 </div>
