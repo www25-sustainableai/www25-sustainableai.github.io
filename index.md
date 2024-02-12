@@ -144,7 +144,7 @@ Submission Deadline: March 31, 2024
 <figure>
     <a href="">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/BiaoWang.jpeg" alt="Biao Wang"/></a>
-    <b><br><a href="">Biao Wang</a>
+    <b><br><a href="">Biao Wang (He/Him)</a>
     <br>Associate Product Manager<br>Google Research</b>
 </figure>
 
