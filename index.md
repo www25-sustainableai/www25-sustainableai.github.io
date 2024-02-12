@@ -54,6 +54,13 @@ Contact the organizers at **[responsibledata@googlegroups.com](mailto:responsibl
 </figure>
 
 <figure>
+    <a href="https://www.cs.princeton.edu/~vr23/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/VikramVRamaswamy.jpeg" alt="Vikram V. Ramaswamy"/></a>
+    <b><br><a href="https://www.cs.princeton.edu/~vr23/">Vikram V. Ramaswamy</a>
+    <br>Associate Professor, CS  <br> Princeton</b>
+</figure>
+
+<figure>
     <a href="https://ai.sony/people/Alice-Xiang/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/AliceXiang.jpeg" alt="Alice Xiang"/></a>
     <b><br><a href="https://ai.sony/people/Alice-Xiang/">Alice Xiang</a>
@@ -61,10 +68,40 @@ Contact the organizers at **[responsibledata@googlegroups.com](mailto:responsibl
 </figure>
 
 <figure>
+    <a href="https://ai.sony/people/Jerone-Andrews/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/JeroneAndrews.jpeg" alt="Jerone Andrews"/></a>
+    <b><br><a href="https://ai.sony/people/Jerone-Andrews/">Jerone Andrews</a>
+    <br>Research Scientist<br>Sony AI</b>
+</figure>
+
+<figure>
+    <a href="https://www.linkedin.com/in/candice-schumann-08711792/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/CandiceSchumann.jpeg" alt="Candice Schumann"/></a>
+    <b><br><a href="https://www.linkedin.com/in/candice-schumann-08711792/">Candice Schumann</a>
+    <br>Research Engineer<br>Google</b>
+</figure>
+
+
+
+<figure>
     <a href="https://hazirbas.com/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/CanerHazirbas.jpeg" alt="Caner Hazirbas"/></a>
     <b><br><a href="https://hazirbas.com/">Caner Hazirbas</a>
     <br>Research Scientist<br>Meta AI</b>
+</figure>
+
+<figure>
+    <a href="https://cristiancanton.github.io/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/CristianCantonFerrer.jpeg" alt="Cristian Canton Ferrer"/></a>
+    <b><br><a href="https://cristiancanton.github.io/">Cristian Canton Ferrer</a>
+    <br>Head of GenAI Trust & Safety<br>Meta AI</b>
+</figure>
+
+<figure>
+    <a href="https://www.linkedin.com/in/jessholbrook/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/JessHolbrook.jpeg" alt="Jess Holbrook"/></a>
+    <b><br><a href="https://www.linkedin.com/in/jessholbrook/">Jess Holbrook</a>
+    <br>Director and Principal Researcher, GenAI<br>Meta AI</b>
 </figure>
 
 
