@@ -32,7 +32,7 @@ Authors are invited to submit relevent research (including work in progress, nov
 
 The extended abstract can be at most 4 pages long in [CVPR format](https://github.com/cvpr-org/author-kit/releases), not including references. Authors may supply supplementary material, however, reviewers will not be required to read this material. Reviews will be double blind. The submission deadline is March 31, 2024.
 
-Submission website coming soon!
+Submit your extended abstracts through [OpenReview](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/Responsible_Data).
 
 ---
 ## **Important Dates** {#dates}
