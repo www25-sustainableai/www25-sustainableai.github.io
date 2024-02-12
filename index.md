@@ -81,7 +81,7 @@ Submission Deadline: March 31, 2024
 <figure>
     <a href="https://candiceschumann.com/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/CandiceSchumann.jpeg" alt="Candice Schumann"/></a>
-    <b><br><a href="https://candiceschumann.com/">Candice Schumann</a>
+    <b><br><a href="https://candiceschumann.com/">Candice Schumann (they/she)</a>
     <br>Research Engineer<br>Google Research</b>
 </figure>
 
@@ -102,7 +102,7 @@ Submission Deadline: March 31, 2024
 <figure>
     <a href="https://www.cs.princeton.edu/~vr23/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/VikramVRamaswamy.jpeg" alt="Vikram V. Ramaswamy"/></a>
-    <b><br><a href="https://www.cs.princeton.edu/~vr23/">Vikram V. Ramaswamy</a>
+    <b><br><a href="https://www.cs.princeton.edu/~vr23/">Vikram V. Ramaswamy (He/They)</a>
     <br>Associate Professor, CS  <br> Princeton</b>
 </figure>
 
@@ -121,16 +121,16 @@ Submission Deadline: March 31, 2024
 </figure>
 
 <figure>
-    <a href="">
+    <a href="https://www.linkedin.com/in/susanna-ricco/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/SusannaRicco.jpeg" alt="Susanna Ricco"/></a>
-    <b><br><a href="">Susanna Ricco</a>
+    <b><br><a href="https://www.linkedin.com/in/susanna-ricco/">Susanna Ricco (She/Her)</a>
     <br>Research Engineer<br>Google Research</b>
 </figure>
 
 <figure>
     <a href="https://www.linkedin.com/in/courtney-heldreth-phd-3962b329/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/CourtneyHeldreth.png" alt="Courtney Heldreth"/></a>
-    <b><br><a href="https://www.linkedin.com/in/courtney-heldreth-phd-3962b329/">Courtney Heldreth</a>
+    <b><br><a href="https://www.linkedin.com/in/courtney-heldreth-phd-3962b329/">Courtney Heldreth (She/Her)</a>
     <br>UX Researcher<br>Google Research</b>
 </figure>
 
