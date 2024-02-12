@@ -28,7 +28,7 @@ Post workshop, we plan to write a white paper summarizing the round table discus
 ---
 ## **Call for Papers** {#call}
 
-Authors are invited to submit relevent research (including work in progress, novel perspectives, ect.) as extended abstracts for the poster session and workshop discussion. Please see relevent topics above. Accepted abstracts will be presented at the poster session, and will not be included in the printed proceedings of the workshop.
+Authors are invited to submit relevent research (including work in progress, novel perspectives, etc.) as extended abstracts for the poster session and workshop discussion. Please see relevent topics above. Accepted abstracts will be presented at the poster session, and will not be included in the printed proceedings of the workshop.
 
 The extended abstract can be at most 4 pages long in [CVPR format](https://github.com/cvpr-org/author-kit/releases), not including references. Authors may supply supplementary material, however, reviewers will not be required to read this material. Reviews will be double blind. The submission deadline is March 31, 2024.
 
@@ -58,7 +58,7 @@ Submission Deadline: March 31, 2024
     <a href="https://beerys.github.io/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/SaraBeery.jpeg" alt="Sara Beery"/></a>
     <b><br><a href="https://sites.google.com/cs.washington.edu/william-agnew/home">Sara Beery</a>
-    <br>Assistant professor<br>MIT</b>
+    <br>Assistant Professor<br>MIT</b>
 </figure>
 </div>
 
