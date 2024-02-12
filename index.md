@@ -71,6 +71,21 @@ Submission Deadline: March 31, 2024
 
 ## **Organizers** {#organizers}
 <div class="container">
+
+<figure>
+    <a href="https://candiceschumann.com/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/CandiceSchumann.jpeg" alt="Candice Schumann"/></a>
+    <b><br><a href="https://candiceschumann.com/">Candice Schumann</a>
+    <br>Research Engineer<br>Google Research</b>
+</figure>
+
+<figure>
+    <a href="https://hazirbas.com/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/CanerHazirbas.jpeg" alt="Caner Hazirbas"/></a>
+    <b><br><a href="https://hazirbas.com/">Caner Hazirbas</a>
+    <br>Research Scientist<br>Meta AI</b>
+</figure>
+
 <figure>
     <a href="https://www.cs.princeton.edu/~olgarus/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/OlgaRussakovsky_highres.jpeg" alt="Olga Russakovsky"/></a>
@@ -86,13 +101,6 @@ Submission Deadline: March 31, 2024
 </figure>
 
 <figure>
-    <a href="https://ai.sony/people/Alice-Xiang/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/AliceXiang.jpeg" alt="Alice Xiang"/></a>
-    <b><br><a href="https://ai.sony/people/Alice-Xiang/">Alice Xiang</a>
-    <br>Global Head of AI Ethics<br>Sony AI</b>
-</figure>
-
-<figure>
     <a href="https://ai.sony/people/Jerone-Andrews/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/JeroneAndrews.jpeg" alt="Jerone Andrews"/></a>
     <b><br><a href="https://ai.sony/people/Jerone-Andrews/">Jerone Andrews</a>
@@ -100,19 +108,31 @@ Submission Deadline: March 31, 2024
 </figure>
 
 <figure>
-    <a href="">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/CandiceSchumann.jpeg" alt="Candice Schumann"/></a>
-    <b><br><a href="">Candice Schumann</a>
-    <br>Research Engineer<br>Google</b>
+    <a href="https://ai.sony/people/Alice-Xiang/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/AliceXiang.jpeg" alt="Alice Xiang"/></a>
+    <b><br><a href="https://ai.sony/people/Alice-Xiang/">Alice Xiang</a>
+    <br>Global Head of AI Ethics<br>Sony AI</b>
 </figure>
 
-
+<figure>
+    <a href="">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/SusannaRicco.jpeg" alt="Susanna Ricco"/></a>
+    <b><br><a href="">Susanna Ricco</a>
+    <br>Research Engineer<br>Google Research</b>
+</figure>
 
 <figure>
-    <a href="https://hazirbas.com/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/CanerHazirbas.jpeg" alt="Caner Hazirbas"/></a>
-    <b><br><a href="https://hazirbas.com/">Caner Hazirbas</a>
-    <br>Research Scientist<br>Meta AI</b>
+    <a href="https://www.linkedin.com/in/courtney-heldreth-phd-3962b329/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/CourtneyHeldreth.png" alt="Courtney Heldreth"/></a>
+    <b><br><a href="https://www.linkedin.com/in/courtney-heldreth-phd-3962b329/">Courtney Heldreth</a>
+    <br>UX Researcher<br>Google Research</b>
+</figure>
+
+<figure>
+    <a href="">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/BiaoWang.jpeg" alt="Biao Wang"/></a>
+    <b><br><a href="">Biao Wang</a>
+    <br>Associate Product Manager<br>Google Research</b>
 </figure>
 
 <figure>
