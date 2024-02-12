@@ -53,6 +53,13 @@ Submission Deadline: March 31, 2024
     <b><br><a href="https://sites.google.com/cs.washington.edu/william-agnew/home">William Agnew</a>
     <br>CBI Postdoc Fellow<br>CMU</b>
 </figure>
+
+<figure>
+    <a href="https://beerys.github.io/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/SaraBeery.jpeg" alt="Sara Beery"/></a>
+    <b><br><a href="https://sites.google.com/cs.washington.edu/william-agnew/home">Sara Beery</a>
+    <br>Assistant professor<br>MIT</b>
+</figure>
 </div>
 
 ---
