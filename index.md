@@ -104,7 +104,7 @@ Accept/Reject Date: April 22, 2024
 <figure>
     <a href="https://www.cs.princeton.edu/~olgarus/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/OlgaRussakovsky_highres.jpeg" alt="Olga Russakovsky"/></a>
-    <b><br><a href="https://www.cs.princeton.edu/~olgarus/">Olga Russakovsky</a>
+    <b><br><a href="https://www.cs.princeton.edu/~olgarus/">Olga Russakovsky (She/Her)</a>
     <br>Associate Professor, CS  <br> Princeton</b>
 </figure>
 
@@ -125,7 +125,7 @@ Accept/Reject Date: April 22, 2024
 <figure>
     <a href="https://ai.sony/people/Alice-Xiang/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/AliceXiang.jpeg" alt="Alice Xiang"/></a>
-    <b><br><a href="https://ai.sony/people/Alice-Xiang/">Alice Xiang</a>
+    <b><br><a href="https://ai.sony/people/Alice-Xiang/">Alice Xiang (She/Her)</a>
     <br>Global Head of AI Ethics<br>Sony AI</b>
 </figure>
 
