@@ -111,21 +111,21 @@ Submission Deadline: March 31, 2024
 <figure>
     <a href="https://hazirbas.com/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/CanerHazirbas.jpeg" alt="Caner Hazirbas"/></a>
-    <b><br><a href="https://hazirbas.com/">Caner Hazirbas</a>
+    <b><br><a href="https://hazirbas.com/">Caner Hazirbas (He/Him)</a>
     <br>Research Scientist<br>Meta AI</b>
 </figure>
 
 <figure>
     <a href="https://cristiancanton.github.io/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/CristianCantonFerrer.jpeg" alt="Cristian Canton Ferrer"/></a>
-    <b><br><a href="https://cristiancanton.github.io/">Cristian Canton Ferrer</a>
+    <b><br><a href="https://cristiancanton.github.io/">Cristian Canton Ferrer (He/Him)</a>
     <br>Head of GenAI Trust & Safety<br>Meta AI</b>
 </figure>
 
 <figure>
     <a href="https://www.linkedin.com/in/jessholbrook/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/JessHolbrook.jpeg" alt="Jess Holbrook"/></a>
-    <b><br><a href="https://www.linkedin.com/in/jessholbrook/">Jess Holbrook</a>
+    <b><br><a href="https://www.linkedin.com/in/jessholbrook/">Jess Holbrook (He/Him)</a>
     <br>Director and Principal Researcher, GenAI<br>Meta AI</b>
 </figure>
 </div>
