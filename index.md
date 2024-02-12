@@ -1,8 +1,11 @@
 ---
 layout: default
 title: CVPR 2024 Workshop on Responsible Data
-description: WRD24 @ CVPR 2024
+description: WRD24 @ CVPR 2024, June 18, 2024
 ---
+
+Welcome to our **Workshop on Responsible Data**!
+
 The development of large-scale datasets has been essential to the progress of machine learning and artificial intelligence. However, many of these datasets are not inclusive or diverse - particularly computer vision datasets, which can lead to biased models and algorithms. This workshop will bring together practitioners and researchers to discuss the challenges and opportunities of building more responsible datasets.
 
 The workshop will cover a range of topics, including:
@@ -25,8 +28,9 @@ Post workshop, we plan to write a white paper summarizing the round table discus
 ---
 ## **Call for Papers** {#call}
 
+---
 ## **Important Dates** {#dates}
-> TBA!
+Submission Deadline: March 31, 2024
 
 ---
 
@@ -45,6 +49,7 @@ Post workshop, we plan to write a white paper summarizing the round table discus
 </figure>
 </div>
 
+---
 ## **Panelists** {#panelists}
 <div class="container">
 <figure>
@@ -62,10 +67,8 @@ Post workshop, we plan to write a white paper summarizing the round table discus
 </figure>
 </div>
 
-## **Contact** {#contact}
-Contact the organizers at **[responsibledata@googlegroups.com](mailto:responsibledata@googlegroups.com)**
-
 ---
+
 ## **Organizers** {#organizers}
 <div class="container">
 <figure>
@@ -126,3 +129,8 @@ Contact the organizers at **[responsibledata@googlegroups.com](mailto:responsibl
     <br>Director and Principal Researcher, GenAI<br>Meta AI</b>
 </figure>
 </div>
+
+---
+## **Contact** {#contact}
+Contact the organizers at **[responsibledata@googlegroups.com](mailto:responsibledata@googlegroups.com)**
+---
