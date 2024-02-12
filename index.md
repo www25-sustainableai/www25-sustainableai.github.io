@@ -81,7 +81,7 @@ Submission Deadline: March 31, 2024
 <figure>
     <a href="https://candiceschumann.com/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/CandiceSchumann.jpeg" alt="Candice Schumann"/></a>
-    <b><br><a href="https://candiceschumann.com/">Candice Schumann (they/she)</a>
+    <b><br><a href="https://candiceschumann.com/">Candice Schumann (They/She)</a>
     <br>Research Engineer<br>Google Research</b>
 </figure>
 
