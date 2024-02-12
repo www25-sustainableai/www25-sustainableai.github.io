@@ -110,7 +110,7 @@ Submission Deadline: March 31, 2024
     <a href="https://www.cs.princeton.edu/~vr23/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/VikramVRamaswamy.jpeg" alt="Vikram V. Ramaswamy"/></a>
     <b><br><a href="https://www.cs.princeton.edu/~vr23/">Vikram V. Ramaswamy (He/They)</a>
-    <br>Associate Professor, CS  <br> Princeton</b>
+    <br>Lecturer, CS  <br> Princeton</b>
 </figure>
 
 <figure>
