@@ -36,9 +36,31 @@ Post workshop, we plan to write a white paper summarizing the round table discus
 ---
 
 ## **Keynote Speakers** {#speakers}
+<div class="container">
+<figure>
+    <a href="https://sites.google.com/cs.washington.edu/william-agnew/home">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/WilliamAgnew.jpeg" alt="William Agnew"/></a>
+    <b><br><a href="https://sites.google.com/cs.washington.edu/william-agnew/home">William Agnew</a>
+    <br>CBI Postdoc Fellow<br>CMU</b>
+</figure>
+</div>
 
+## **Panelists** {#panelists}
+<div class="container">
+<figure>
+    <a href="https://www.linkedin.com/in/naticatalan/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/NatiCatalan.jpeg" alt="Nati Catalan"/></a>
+    <b><br><a href="https://www.linkedin.com/in/naticatalan/">Nati Catalan</a>
+    <br>Co-Founder<br>Tasq.ai</b>
+</figure>
 
----
+<figure>
+    <a href="https://www.linkedin.com/in/sven-cattell-5748a311/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/SvenCattell.jpeg" alt="Sven Cattell"/></a>
+    <b><br><a href="https://www.linkedin.com/in/sven-cattell-5748a311/">Sven Cattell</a>
+    <br>Founder of AI Village<br>nbhd.ai</b>
+</figure>
+</div>
 
 ## **Contact** {#contact}
 Contact the organizers at **[responsibledata@googlegroups.com](mailto:responsibledata@googlegroups.com)**
@@ -103,7 +125,4 @@ Contact the organizers at **[responsibledata@googlegroups.com](mailto:responsibl
     <b><br><a href="https://www.linkedin.com/in/jessholbrook/">Jess Holbrook</a>
     <br>Director and Principal Researcher, GenAI<br>Meta AI</b>
 </figure>
-
-
-
 </div>
