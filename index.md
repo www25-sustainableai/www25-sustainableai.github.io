@@ -36,9 +36,9 @@ Submit your extended abstracts through [OpenReview](https://openreview.net/group
 
 ---
 ## **Important Dates** {#dates}
-Submission Deadline: March 31, 2024
+Submission Deadline: **March 31, 2024**
 
-Accept/Reject Date: April 22, 2024
+Final Decisions: **April 22, 2024**
 
 ---
 
@@ -168,5 +168,3 @@ Accept/Reject Date: April 22, 2024
 ---
 ## **Contact** {#contact}
 Contact the organizers at **[responsibledata@googlegroups.com](mailto:responsibledata@googlegroups.com)**
-
----
