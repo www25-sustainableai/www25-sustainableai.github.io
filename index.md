@@ -118,7 +118,7 @@ Accept/Reject Date: April 22, 2024
 <figure>
     <a href="https://ai.sony/people/Jerone-Andrews/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/JeroneAndrews.jpeg" alt="Jerone Andrews"/></a>
-    <b><br><a href="https://ai.sony/people/Jerone-Andrews/">Jerone Andrews</a>
+    <b><br><a href="https://ai.sony/people/Jerone-Andrews/">Jerone Andrews (He/Him)</a>
     <br>Research Scientist<br>Sony AI</b>
 </figure>
 
