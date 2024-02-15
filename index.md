@@ -77,7 +77,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
 <figure>
     <a href="https://beerys.github.io/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/SaraBeery.jpeg" alt="Sara Beery"/></a>
-    <b><br><a href="https://sites.google.com/cs.washington.edu/william-agnew/home">Sara Beery</a>
+    <b><br><a href="https://sites.google.com/cs.washington.edu/william-agnew/home">Sara Beery (She/Her)</a>
     <br>Assistant Professor<br>MIT</b>
 </figure>
 </div>
