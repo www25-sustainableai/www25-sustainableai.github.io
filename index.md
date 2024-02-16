@@ -110,7 +110,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
 <figure>
     <a href="https://www.morgan-klaus.com/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/MorganKlausScheuerman.jpeg" alt="Morgan Klaus Scheuerman"/></a>
-    <b><br><a href="https://www.morgan-klaus.com/">Morgan Klaus Scheuerman</a>
+    <b><br><a href="https://www.morgan-klaus.com/">Morgan Klaus Scheuerman (He/Him)</a>
     <br>Postdoctoral Associate<br>CU Boulder</b>
 </figure>
 </div>
