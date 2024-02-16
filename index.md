@@ -59,7 +59,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
 | 13:15-13:45 | Poster Session 2         | TBD                                                                                                                            |
 | 13:45-14:15 | Coffee Break             |                                                                                                                                |
 | 14:15-15:15 | Round Table Discussion 2 |                                                                                                                                |
-| 15:15-16:15 | Panel Discussion         | **Moderator**: [Dr. Vikram V. Ramaswamy](https://www.cs.princeton.edu/~vr23/) <br><br>**Panelists**: [Nati Catalan](https://www.linkedin.com/in/naticatalan/), [Dr. Sven Cattell](https://www.linkedin.com/in/sven-cattell-5748a311/), [Dr. Morgan Klaus Scheuerman](https://www.morgan-klaus.com/), TBD |
+| 15:15-16:15 | Panel Discussion         | **Moderator**: [Dr. Vikram V. Ramaswamy](https://www.cs.princeton.edu/~vr23/) <br><br>**Panelists**: [Nati Catalan](https://www.linkedin.com/in/naticatalan/), [Dr. Sven Cattell](https://www.linkedin.com/in/sven-cattell-5748a311/), [Dr. Morgan Klaus Scheuerman](https://www.morgan-klaus.com/), [Emily McReynolds](https://www.linkedin.com/in/emilymcreynolds/) |
 | 16:15-16:30 | Closing Remarks          | [Dr. Caner Hazirbas](https://hazirbas.com/) |
 
 ---
