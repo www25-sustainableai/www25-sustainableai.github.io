@@ -81,14 +81,13 @@ The following schedule is tentative and will be confirmed closer to the workshop
     </figure>
 </div>
 
-<div align="justify">
+<div class="bio-text">
 <a href="https://beerys.github.io/"><b>Dr. Sara Beery</b></a>
 is the Homer A. Burnell Career Development Professor in the MIT Faculty of Artificial Intelligence and Decision-Making. She was previously a visiting researcher at Google, working on large-scale urban forest monitoring as part of the Auto Arborist project. She received her PhD in Computing and Mathematical Sciences at Caltech in 2022, where she was advised by Pietro Perona and awarded the Amori Doctoral Prize for her thesis. Her research focuses on building computer vision methods that enable global-scale environmental and biodiversity monitoring across data modalities, tackling real-world challenges including geospatial and temporal domain shift, learning from imperfect data, fine-grained categories, and long-tailed distributions. She partners with industry, nongovernmental organizations, and government agencies to deploy her methods in the wild worldwide. She works toward increasing the diversity and accessibility of academic research in artificial intelligence through interdisciplinary capacity building and education, and has founded the AI for Conservation slack community, serves as the Biodiversity Community Lead for Climate Change AI, and founded and directs the Summer Workshop on Computer Vision Methods for Ecology.
 
 <br><br>
 <a href="https://sites.google.com/cs.washington.edu/william-agnew/home"><b>William Agnew</b></a> coming soon.
 
-<br><br>
 </div>
 
 ---
