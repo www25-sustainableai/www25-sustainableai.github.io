@@ -112,6 +112,13 @@ is the Homer A. Burnell Career Development Professor in the MIT Faculty of Artif
     <b><br><a href="https://www.morgan-klaus.com/">Morgan Klaus Scheuerman (He/Him)</a>
     <br>Postdoctoral Associate<br>CU Boulder</b>
 </figure>
+
+<figure>
+    <a href="https://www.linkedin.com/in/emilymcreynolds/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/EmilyMcReynolds.jpeg" alt="Emily McReynolds"/></a>
+    <b><br><a href="https://www.linkedin.com/in/emilymcreynolds/">Emily McReynolds</a>
+    <br>Lead AI Strategist<br>Adobe</b>
+</figure>
 </div>
 
 ---
