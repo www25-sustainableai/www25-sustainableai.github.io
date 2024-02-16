@@ -47,21 +47,20 @@ The following schedule is tentative and will be confirmed closer to the workshop
 
 | **Time**    | **Topic**                | **Speaker(s)/Presenter(s)**                                                                                                    |
 |-------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| 8:30-8:45   | Opening Remarks          | Dr. Candice Schumann                                                                                                           |
-| 8:45-9:15   | Keynote                  | Dr. Sara Beery                                                                                                                 |
+| 8:30-8:45   | Opening Remarks          | [Dr. Candice Schumann](https://candiceschumann.com/)                                                                                          |
+| 8:45-9:15   | Keynote                  | [Dr. Sara Beery](https://beerys.github.io/)                                                                                                                |
 | 9:15-9:30   | Rapid Fire Talks 1       | TBD                                                                                                                            |
 | 9:30-10:00  | Poster Session 1         | TBD                                                                                                                            |
 | 10:00-10:30 | Coffee Break             |                                                                                                                                |
 | 10:30-11:30 | Round Table Discussion 1 |                                                                                                                                |
 | 11:30-12:30 | Lunch Break              |                                                                                                                                |
-| 12:30-13:00 | Keynote                  | Dr. William Agnew                                                                                                              |
+| 12:30-13:00 | Keynote                  | [Dr. William Agnew](https://sites.google.com/cs.washington.edu/william-agnew/home)                                                                                                              |
 | 13:00-13:15 | Rapid Fire Talks 2       | TBD                                                                                                                            |
 | 13:15-13:45 | Poster Session 2         | TBD                                                                                                                            |
 | 13:45-14:15 | Coffee Break             |                                                                                                                                |
 | 14:15-15:15 | Round Table Discussion 2 |                                                                                                                                |
-| 15:15-16:15 | Panel Discussion         | _Moderator:_<br> Dr. Vikram V. Ramaswamy<br> _Panelists:_<br> Nati Catalan, Dr. Sven Cattell, Dr. Morgan Klaus Scheuerman, TBD |
-| 16:15-16:30 | Closing Remarks          | Dr. Caner Hazirbas                                                                                                             |
-
+| 15:15-16:15 | Panel Discussion         | **Moderator**: [Dr. Vikram V. Ramaswamy](https://www.cs.princeton.edu/~vr23/) <br><br>**Panelists**: [Nati Catalan](https://www.linkedin.com/in/naticatalan/), [Dr. Sven Cattell](https://www.linkedin.com/in/sven-cattell-5748a311/), [Dr. Morgan Klaus Scheuerman](https://www.morgan-klaus.com/), TBD |
+| 16:15-16:30 | Closing Remarks          | [Dr. Caner Hazirbas](https://hazirbas.com/) |
 
 ---
 
