@@ -95,7 +95,7 @@ is the Homer A. Burnell Career Development Professor in the MIT Faculty of Artif
 <figure>
     <a href="https://www.linkedin.com/in/naticatalan/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/NatiCatalan.jpeg" alt="Nati Catalan"/></a>
-    <b><br><a href="https://www.linkedin.com/in/naticatalan/">Nati Catalan</a>
+    <b><br><a href="https://www.linkedin.com/in/naticatalan/">Nati Catalan (He/Him)</a>
     <br>Co-Founder<br>Tasq.ai</b>
 </figure>
 
@@ -119,6 +119,21 @@ is the Homer A. Burnell Career Development Professor in the MIT Faculty of Artif
     <b><br><a href="https://www.linkedin.com/in/emilymcreynolds/">Emily McReynolds</a>
     <br>Lead AI Strategist<br>Adobe</b>
 </figure>
+</div>
+
+<div class="bio-text">
+<a href="https://www.linkedin.com/in/naticatalan/"><b>Nati Catalan</b></a>
+is a seasoned professional with a background in Computer Science and Mathematics, boasting two decades of leadership in startups and enterprises. Over the past 9 years, Nati has passionately dedicated efforts to bridging the gap between artificial intelligence and human intuition. As the Co-Founder of <a href="https://www.tasq.ai/">Tasq.ai</a>, Nati champions the cause of incorporating humans in machine learning solutions.
+Nati is a firm advocate for the essential role of human guidance in responsible AI development, whose challenges he solves with global, diverse, and responsible human input on an unprecedented scale. This approach has positioned <a href="https://www.tasq.ai/">Tasq.ai</a> a unique platform for Data Science and ML teams, especially those pursuing Responsible AI in an effortless and scalable way.
+
+<br><br>
+<a href="https://www.linkedin.com/in/sven-cattell-5748a311/"><b>Sven Cattell</b></a> coming soon.
+
+<br><br>
+<a href="https://www.morgan-klaus.com/"><b>Morgan Klaus Scheuerman</b></a> coming soon.
+
+<br><br>
+<a href="https://www.linkedin.com/in/emilymcreynolds/"><b>Emily McReynolds</b></a> coming soon.
 </div>
 
 ---
