@@ -133,7 +133,8 @@ Nati is a firm advocate for the essential role of human guidance in responsible 
 <a href="https://www.morgan-klaus.com/"><b>Morgan Klaus Scheuerman</b></a> coming soon.
 
 <br><br>
-<a href="https://www.linkedin.com/in/emilymcreynolds/"><b>Emily McReynolds</b></a> coming soon.
+<a href="https://www.linkedin.com/in/emilymcreynolds/"><b>Emily McReynolds (She/Her)</b></a>
+has worked in data protection, machine learning & AI, across academia, civil society, and in the tech industry. In previous roles, she led partnerships with civil society & industry engagement on responsible AI at Meta, and created end-to-end data strategy for ML development at Microsoft. With a passion for translating complex technical concepts into understandable sound bites, she has spearheaded a number of tech explanation projects including AI System Cards, a resource for understanding how AI works in different contexts. She was the founding program director for the University of Washington’s <a href="http://techpolicylab.uw.edu/">Tech Policy Lab</a>, an interdisciplinary collaboration across the Computer Science, Information, and Law schools. She started coding in the time of HTML and taught people to use computers back when we used floppy disks.
 </div>
 
 ---
