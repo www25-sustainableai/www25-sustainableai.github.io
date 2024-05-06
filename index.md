@@ -59,7 +59,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
 | 14:15-14:40 | Rapid Fire Talks 2       | TBD                                                                                |
 | 14:45-15:15 | Poster Session 2         | TBD                                                                                |
 | 15:15-15:45 | Coffee Break             |                                                                                    |
-| 15:45-16:45 | Panel Discussion         | **Moderator**: TBD <br><br>**Panelists**: [Nati Catalan](https://www.linkedin.com/in/naticatalan/), [Dr. Sven Cattell](https://www.linkedin.com/in/sven-cattell-5748a311/), [Dr. Morgan Klaus Scheuerman](https://www.morgan-klaus.com/), [Emily McReynolds](https://www.linkedin.com/in/emilymcreynolds/)                                                                                   |
+| 15:45-16:45 | Panel Discussion         | **Moderator**: TBD <br><br>**Panelists**: <br>[Nati Catalan](https://www.linkedin.com/in/naticatalan/),<br>[Dr. Sven Cattell](https://www.linkedin.com/in/sven-cattell-5748a311/),<br>[Dr. Morgan Klaus Scheuerman](https://www.morgan-klaus.com/),<br>[Emily McReynolds](https://www.linkedin.com/in/emilymcreynolds/)                                                                                   |
 | 16:45-17:15 | Closing Remarks          | [Dr. Caner Hazirbas](https://hazirbas.com/)                                        |
 
 ---
