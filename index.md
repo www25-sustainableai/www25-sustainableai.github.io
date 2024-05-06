@@ -26,7 +26,7 @@ The workshop will cover a range of topics, including:
 Post workshop, we plan to write a white paper summarizing the round table discussions and opinions from experts in the field (with necessary permissions). We will also follow through with making a community space on discord (or similar platform) to continue the community building and collaboration post-workshop.
 
 ---
-## ~~**Important Dates**~~ {#dates}
+## **Important Dates** {#dates}
 
 | Submission Deadline | ~~March 31, 2024~~ | **April 12, 2024** |
 | Final Decisions | ~~April 22, 2024~~ | **April 30, 2024** |
