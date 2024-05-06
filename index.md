@@ -47,20 +47,20 @@ The following schedule is tentative and will be confirmed closer to the workshop
 
 |   **Time**  |         **Topic**        |                             **Speaker(s)/Presenter(s)**                            |
 |------------:|:-------------------------|:-----------------------------------------------------------------------------------|
-| 8:30-8:45   | Opening Remarks          | [Dr. Candice Schumann](https://candiceschumann.com/)                               |
-| 8:45-9:15   | Keynote                  | [Dr. Sara Beery](https://beerys.github.io/)                                        |
-| 9:15-9:40   | Rapid Fire Talks 1       | TBD                                                                                |
-| 9:45-10:15  | Poster Session 1         | TBD                                                                                |
-| 10:15-10:45 | Coffee Break             |                                                                                    |
-| 10:45-11:45 | Round Table Discussion 1 |                                                                                    |
-| 11:45-13:00 | Lunch Break              |                                                                                    |
-| 13:00-13:30 | Keynote                  | [Dr. William Agnew](https://sites.google.com/cs.washington.edu/william-agnew/home) |
-| 13:30-14:15 | Round Table Discussion 2 |                                                                                    |
-| 14:15-14:40 | Rapid Fire Talks 2       | TBD                                                                                |
-| 14:45-15:15 | Poster Session 2         | TBD                                                                                |
-| 15:15-15:45 | Coffee Break             |                                                                                    |
-| 15:45-16:45 | Panel Discussion         | **Moderator**: TBD <br><br>**Panelists**: [Nati Catalan](https://www.linkedin.com/in/naticatalan/), [Dr. Sven Cattell](https://www.linkedin.com/in/sven-cattell-5748a311/), [Dr. Morgan Klaus Scheuerman](https://www.morgan-klaus.com/), [Emily McReynolds](https://www.linkedin.com/in/emilymcreynolds/)                                                                                   |
-| 16:45-17:15 | Closing Remarks          | [Dr. Caner Hazirbas](https://hazirbas.com/)                                        |
+| `8:30-8:45`   | Opening Remarks          | [Dr. Candice Schumann](https://candiceschumann.com/)                               |
+| `8:45-9:15`   | Keynote                  | [Dr. Sara Beery](https://beerys.github.io/)                                        |
+| `9:15-9:40`   | Rapid Fire Talks 1       | TBD                                                                                |
+| `9:45-10:15` | Poster Session 1         | TBD                                                                                |
+| `10:15-10:45` | Coffee Break             |                                                                                    |
+| `10:45-11:45` | Round Table Discussion 1 |                                                                                    |
+| `11:45-13:00` | Lunch Break              |                                                                                    |
+| `13:00-13:30` | Keynote                  | [Dr. William Agnew](https://sites.google.com/cs.washington.edu/william-agnew/home) |
+| `13:30-14:15` | Round Table Discussion 2 |                                                                                    |
+| `14:15-14:40` | Rapid Fire Talks 2       | TBD                                                                                |
+| `14:45-15:15` | Poster Session 2         | TBD                                                                                |
+| `15:15-15:45` | Coffee Break             |                                                                                    |
+| `15:45-16:45` | Panel Discussion         | **Moderator**: TBD <br><br>**Panelists**: [Nati Catalan](https://www.linkedin.com/in/naticatalan/), [Dr. Sven Cattell](https://www.linkedin.com/in/sven-cattell-5748a311/), [Dr. Morgan Klaus Scheuerman](https://www.morgan-klaus.com/), [Emily McReynolds](https://www.linkedin.com/in/emilymcreynolds/)                                                                                   |
+| `16:45-17:15` | Closing Remarks          | [Dr. Caner Hazirbas](https://hazirbas.com/)                                        |
 
 ---
 
