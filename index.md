@@ -26,19 +26,11 @@ The workshop will cover a range of topics, including:
 Post workshop, we plan to write a white paper summarizing the round table discussions and opinions from experts in the field (with necessary permissions). We will also follow through with making a community space on discord (or similar platform) to continue the community building and collaboration post-workshop.
 
 ---
-## **Call for Papers** {#call}
-
-Authors are invited to submit relevent research (including work in progress, novel perspectives, etc.) as extended abstracts for the poster session and workshop discussion. Please see relevent topics above. Accepted abstracts will be presented at the poster session, and will not be included in the printed proceedings of the workshop.
-
-The extended abstract can be at most 4 pages long in [CVPR format](https://github.com/cvpr-org/author-kit/releases), not including references. Authors may supply supplementary material, however, reviewers will not be required to read this material. Reviews will be double blind. The submission deadline is March 31, 2024.
-
-Submit your extended abstracts through [OpenReview](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/Responsible_Data).
-
----
-## **Important Dates** {#dates}
+## ~~**Important Dates**~~ {#dates}
 
 | Submission Deadline | ~~March 31, 2024~~ | **April 12, 2024** |
 | Final Decisions | ~~April 22, 2024~~ | **April 30, 2024** |
+| Workshop Date | **June 18, 2024** | |
 
 ---
 
@@ -223,3 +215,13 @@ has worked in data protection, machine learning & AI, across academia, civil soc
 ---
 ## **Contact** {#contact}
 Contact the organizers at **[responsibledata@googlegroups.com](mailto:responsibledata@googlegroups.com)**
+
+---
+## ~~**Call for Papers**~~ {#call}
+
+Authors are invited to submit relevent research (including work in progress, novel perspectives, etc.) as extended abstracts for the poster session and workshop discussion. Please see relevent topics above. Accepted abstracts will be presented at the poster session, and will not be included in the printed proceedings of the workshop.
+
+The extended abstract can be at most 4 pages long in [CVPR format](https://github.com/cvpr-org/author-kit/releases), not including references. Authors may supply supplementary material, however, reviewers will not be required to read this material. Reviews will be double blind. The submission deadline is March 31, 2024.
+
+Submit your extended abstracts through [OpenReview](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/Responsible_Data).
+
