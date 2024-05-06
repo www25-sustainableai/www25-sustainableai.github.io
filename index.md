@@ -46,7 +46,7 @@ Submit your extended abstracts through [OpenReview](https://openreview.net/group
 The following schedule is tentative and will be confirmed closer to the workshop:
 
 |   **Time**  |         **Topic**        |                             **Speaker(s)/Presenter(s)**                            |
-|:-----------:|:------------------------:|:----------------------------------------------------------------------------------:|
+|------------:|:-------------------------|:-----------------------------------------------------------------------------------|
 | 8:30-8:45   | Opening Remarks          | [Dr. Candice Schumann](https://candiceschumann.com/)                               |
 | 8:45-9:15   | Keynote                  | [Dr. Sara Beery](https://beerys.github.io/)                                        |
 | 9:15-9:40   | Rapid Fire Talks 1       | TBD                                                                                |
