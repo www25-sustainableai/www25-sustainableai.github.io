@@ -45,7 +45,7 @@ Submit your extended abstracts through [OpenReview](https://openreview.net/group
 ## **Schedule** {#schedule}
 The following schedule is tentative and will be confirmed closer to the workshop:
 
-|   <div style="width:290px">**Time**</div>  |         **Topic**        |                             **Speaker(s)/Presenter(s)**                            |
+|   **Time**  |         **Topic**        |                             **Speaker(s)/Presenter(s)**                            |
 |------------:|:-------------------------|:-----------------------------------------------------------------------------------|
 | 8:30-8:45   | Opening Remarks          | [Dr. Candice Schumann](https://candiceschumann.com/)                               |
 | 8:45-9:15   | Keynote                  | [Dr. Sara Beery](https://beerys.github.io/)                                        |
