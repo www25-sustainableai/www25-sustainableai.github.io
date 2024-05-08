@@ -1,16 +1,18 @@
 ---
 layout: default
-title: ACM-MM 2024 Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models
-description: ESGMFM @ ACM-MM 2024
+title: Efficiency, Security, and Generalization of Multimedia Foundation Models
+description: ESGMFM Workshop @ ACM-MM 2024
 ---
 
-Welcome to our **Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models**!
+**Welcome to The 1st Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models in ACM-MM 2024**!
 
 ---
 
 ## **Call for Papers** {#call}
 
-The rapid progress in foundation models has notably enhanced the capabilities of multimedia models across a broad spectrum of tasks. Despite their exceptional accuracy, deploying these models in practical settings raises several concerns, particularly regarding efficiency, security, and generalization. As the utility of foundation models in multimedia topics becomes increasingly evident, addressing these issues is crucial. This workshop focuses on these critical aspects in foundation models, where the scope of the foundation model encompasses a wide range of domains such as vision, language, speech etc., with an emphasis on multimedia tasks and multi-modality methods. 
+**Submission Deadline: July 19, 2024**
+
+The rapid progress in foundation models has enhanced the capabilities of multimedia models across a broad spectrum of tasks. Despite their exceptional performance, deploying these models in practical settings raises several concerns, particularly regarding efficiency, security, and generalization. As the utility of foundation models in multimedia topics becomes increasingly evident, addressing these issues is crucial. This workshop focuses on these critical aspects in foundation models, where the scope of the foundation model encompasses a wide range of domains such as vision, language, speech etc., with an emphasis on multimedia tasks and multi-modality methods. 
 
 Therefore, we solicit original research papers in (but not limited to) the following topics:
 
@@ -39,38 +41,35 @@ Submit your manuscripts through [OpenReview]().
 ---
 ## **Important Dates** {#dates}
 
-| Submission Deadline | **July 19, 2024** | |
-| Decision Notification | **August 5, 2024** | |
-| Camera-Ready Deadline | **August 19, 2024** | |
-| Workshop Date | **TBD, Between October 28 - November 1, 2024** | |
+| Submission Deadline | **July 19, 2024** |
+| Decision Notification | **August 5, 2024** |
+| Camera-Ready Deadline | **August 19, 2024** |
+| Workshop Date | **TBD, Half-Day Between Oct 28 - Nov 1, 2024** |
 
 ---
 
-## **Tentative Schedule** {#schedule}
+## **Schedule** {#schedule}
 
 The following schedule is tentative and will be confirmed closer to the workshop:
-
-
-10:00 10:10 10:40 11:10 11:20 11:30 11:50 12:00
 
 
 
 |   **Time**  |         **Topic**        |                             **Speaker(s)/Presenter(s)**                            |
 |------------:|:-------------------------|:-----------------------------------------------------------------------------------|
-| 08:30 | **Start**                              |                                   |
+| 08:30 | *Start*                                |                                   |
 | 08:30 | Opening remarks                        | TBD                               |
 | 08:40 | Invited talk 1                         | TBD                               |
 | 09:10 | Invited talk 2                         | TBD                               |
 | 09:40 | Oral paper presentation 1              | TBD                               |
 | 09:50 | Oral paper presentation 2              | TBD                               |
-| 10:00 | **Coffee break**                       |                                   |
+| 10:00 | *Coffee break*                         |                                   |
 | 10:10 | Invited talk 3                         | TBD                               |
 | 10:40 | Invited talk 4                         | TBD                               |
 | 11:10 | Oral paper presentation 3              | TBD                               |
 | 11:20 | Oral paper presentation 4              | TBD                               |
-| 11:30 | **Poster session**                     |                                   |
+| 11:30 | *Poster session*                       |                                   |
 | 11:50 | Closing and Awards (Best Poster/Oral)  | TBD                               |
-| 12:00 | **End**                                |                                   |
+| 12:00 | *End*                                  |                                   |
 
 ---
 
@@ -106,7 +105,7 @@ is the Homer A. Burnell Career Development Professor in the MIT Faculty of Artif
 
 <figure>
     <a href="https://daochang.site/">
-    <img class="img-author" src="assets/imgs/authors/daochang_liu.png" alt="Daochang Liu"/></a>
+    <img class="img-author" src="assets/imgs/authors/daochang_liu.jpg" alt="Daochang Liu"/></a>
     <b><br><a href="https://daochang.site/">Daochang Liu</a>
     <br>Postdoc<br>The University of Sydney</b>
 </figure>
