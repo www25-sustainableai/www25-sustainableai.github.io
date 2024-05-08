@@ -39,11 +39,12 @@ All papers will be peer-reviewed by at least three experts in the field, regardi
 Accepted submissions will be presented via oral or poster sessions. 
 The accepted workshop papers will be published in the ACM Digital Library.
 
-Submit your manuscripts through [OpenReview]() (Not Ready Yet).
+Submit your manuscripts through [OpenReview](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/ESGMFM).
 
 ---
 ## **Important Dates** {#dates}
 
+| Submission Open | **May 11, 2024** |
 | Submission Deadline | **July 19, 2024** |
 | Decision Notification | **August 5, 2024** |
 | Camera-Ready Deadline | **August 19, 2024** |
