@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Efficiency, Security, and Generalization of Multimedia Foundation Models
-description: ESGMFM Workshop @ ACM-MM 2024
+description: Workshop @ ACM Multimedia 2024
 ---
 
-**Welcome to The 1st Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models in ACM-MM 2024**!
+**Welcome to The 1st Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models in ACM Multimedia 2024**!
 
 ---
 
@@ -31,7 +31,7 @@ Therefore, we solicit original research papers in (but not limited to) the follo
 - Generalization across data
 - Generalization across modalities
 
-The submission guideline follows the main conference site of [ACM-MM 2024](https://2024.acmmm.org/), including the formatting guideline and submission policies. 
+The submission guideline follows the main conference site of [ACM Multimedia 2024](https://2024.acmmm.org/), including the formatting guideline and submission policies. 
 The review process will be "single-blinded”.
 Submissions should be of up to 4-page length in [ACM-MM format](https://2024.acmmm.org/files/ACM-MM24-paper-templates.zip), plus up to 1 additional page for the references.
 The accepted workshop papers will be published in the ACM Digital Library.
