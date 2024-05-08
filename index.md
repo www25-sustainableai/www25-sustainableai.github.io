@@ -34,11 +34,12 @@ Therefore, we solicit original research papers in (but not limited to) the follo
 The submission guideline follows the main conference site of [ACM Multimedia 2024](https://2024.acmmm.org/), including the formatting guideline and submission policies. 
 The review process for this workshop will be "double-blinded”.
 Submissions should be of up to 4-page length in [ACM-MM format](https://2024.acmmm.org/files/ACM-MM24-paper-templates.zip), plus up to 1 additional page for the references.
+
 All papers will be peer-reviewed by at least three experts in the field, regarding the relevance to the workshop, scientific novelty, and technical quality. 
 Accepted submissions will be presented via oral or poster sessions. 
 The accepted workshop papers will be published in the ACM Digital Library.
 
-Submit your manuscripts through [OpenReview]().
+Submit your manuscripts through [OpenReview]() (Not Ready Yet).
 
 ---
 ## **Important Dates** {#dates}
