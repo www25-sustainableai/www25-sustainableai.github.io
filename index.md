@@ -120,7 +120,7 @@ is the Homer A. Burnell Career Development Professor in the MIT Faculty of Artif
 
 <figure>
     <a href="https://research.monash.edu/en/persons/yasmeen-george">
-    <img class="img-author" src="assets/imgs/authors/yasmeen_george.webp" alt="Yasmeen George"/></a>
+    <img class="img-author" src="assets/imgs/authors/yasmeen_george.png" alt="Yasmeen George"/></a>
     <b><br><a href="https://research.monash.edu/en/persons/yasmeen-george">Yasmeen George</a>
     <br>Lecturer<br>Monash University</b>
 </figure>
@@ -128,7 +128,7 @@ is the Homer A. Burnell Career Development Professor in the MIT Faculty of Artif
 
 <figure>
     <a href="http://changxu.xyz/">
-    <img class="img-author" src="assets/imgs/authors/chang_xu.png" alt="Chang Xu"/></a>
+    <img class="img-author" src="assets/imgs/authors/chang_xu.jpeg" alt="Chang Xu"/></a>
     <b><br><a href="http://changxu.xyz/">Chang Xu</a>
     <br>Associate Professor<br>The University of Sydney</b>
 </figure>
