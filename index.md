@@ -4,7 +4,7 @@ title: Efficiency, Security, and Generalization of Multimedia Foundation Models
 description: Workshop @ ACM Multimedia 2024
 ---
 
-**Welcome to The 1st Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models in ACM Multimedia 2024!**
+**Welcome to The 1st Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models at ACM Multimedia 2024!**
 
 ---
 
@@ -137,8 +137,7 @@ is the Homer A. Burnell Career Development Professor in the MIT Faculty of Artif
 
 ---
 ## **Contact** {#contact}
-Contact the organizers at (To Add)
 
-<!-- **[responsibledata@googlegroups.com](mailto:responsibledata@googlegroups.com)** -->
+Contact the organizers at [mm2024-esgmfm@googlegroups.com](mailto:mm2024-esgmfm@googlegroups.com)
 
 
