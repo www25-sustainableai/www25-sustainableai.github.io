@@ -4,7 +4,7 @@ title: Efficiency, Security, and Generalization of Multimedia Foundation Models
 description: Workshop @ ACM Multimedia 2024
 ---
 
-**Welcome to The 1st Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models in ACM Multimedia 2024**!
+**Welcome to The 1st Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models in ACM Multimedia 2024!**
 
 ---
 
@@ -54,26 +54,26 @@ The following schedule is tentative and will be confirmed closer to the workshop
 
 
 
-|   **Time**  |         **Topic**        |                             **Speaker(s)/Presenter(s)**                            |
+|   **Time**  |         **Topic**        |                             **Speakers**                            |
 |------------:|:-------------------------|:-----------------------------------------------------------------------------------|
 | 08:30 | *Start*                                |                                   |
-| 08:30 | Opening remarks                        | TBD                               |
-| 08:40 | Invited talk 1                         | TBD                               |
-| 09:10 | Invited talk 2                         | TBD                               |
-| 09:40 | Oral paper presentation 1              | TBD                               |
-| 09:50 | Oral paper presentation 2              | TBD                               |
-| 10:00 | *Coffee break*                         |                                   |
-| 10:10 | Invited talk 3                         | TBD                               |
-| 10:40 | Invited talk 4                         | TBD                               |
-| 11:10 | Oral paper presentation 3              | TBD                               |
-| 11:20 | Oral paper presentation 4              | TBD                               |
-| 11:30 | *Poster session*                       |                                   |
+| 08:30 | Opening Remarks                        | TBD                               |
+| 08:40 | Invited Talk 1                         | TBD                               |
+| 09:10 | Invited Talk 2                         | TBD                               |
+| 09:40 | Oral Paper Presentation 1              | TBD                               |
+| 09:50 | Oral Paper Presentation 2              | TBD                               |
+| 10:00 | *Coffee Break*                         |                                   |
+| 10:10 | Invited Talk 3                         | TBD                               |
+| 10:40 | Invited Talk 4                         | TBD                               |
+| 11:10 | Oral Paper Presentation 3              | TBD                               |
+| 11:20 | Oral Paper Presentation 4              | TBD                               |
+| 11:30 | *Poster Session*                       |                                   |
 | 11:50 | Closing and Awards (Best Poster/Oral)  | TBD                               |
 | 12:00 | *End*                                  |                                   |
 
 ---
 
-## **Keynote Speakers** {#speakers}
+## **Invited Speakers** {#speakers}
 
 Coming soon
 
