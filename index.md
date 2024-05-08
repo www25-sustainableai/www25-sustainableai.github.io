@@ -1,63 +1,84 @@
 ---
 layout: default
-title: CVPR 2024 Workshop on Responsible Data
-description: WRD24 @ CVPR 2024, June 18, 2024
+title: ACM-MM 2024 Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models
+description: ESGMFM @ ACM-MM 2024
 ---
 
-Welcome to our **Workshop on Responsible Data**!
+Welcome to our **Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models**!
 
-The development of large-scale datasets has been essential to the progress of machine learning and artificial intelligence. However, many of these datasets are not inclusive or diverse - particularly computer vision datasets, which can lead to biased models and algorithms. This workshop will bring together practitioners and researchers to discuss the challenges and opportunities of building more responsible datasets.
+---
 
-The workshop will cover a range of topics, including:
+## **Call for Papers** {#call}
 
-+ Moving beyond pragmatism and implementation of context and consent-driven procedures in dataset development
-+ What are the main themes when it comes to responsible datasets? Are there specific benchmarks currently utilized?
-+ Challenges, risks and benefits of collecting gender, race, skin tone, physical attributes, accessibility data, and other person attributes.
-+ What are the best practices when training individuals for data collection and annotators? To what extent does diversity matter when it comes to data collection and annotators? How the organizational structures of these businesses and the ecosystem of stakeholders contribute to the responsible dimension of the datasets?
-+ What are the new considerations in a world of pretrained models and synthetic data?
-+ How should we build responsible datasets for generative AI models and applications?
-+ How do we quantitatively measure how responsible a dataset is?
-+ What does Transparency translate to in the context of dataset development?
-+ How do notions of Data Privacy like those articulated in proposals such as the Blueprint for an Bill of Rights translate to building towards responsible datasets?
-+ How do we build a framework for Dataset Accountability?
-+ How should we best engage the open source community when building, updating, and maintaining datasets?
-+ State of Affairs: a summary of progress to date - how responsible datasets have evolved. What best practices can be leveraged more broadly?
+The rapid progress in foundation models has notably enhanced the capabilities of multimedia models across a broad spectrum of tasks. Despite their exceptional accuracy, deploying these models in practical settings raises several concerns, particularly regarding efficiency, security, and generalization. As the utility of foundation models in multimedia topics becomes increasingly evident, addressing these issues is crucial. This workshop focuses on these critical aspects in foundation models, where the scope of the foundation model encompasses a wide range of domains such as vision, language, speech etc., with an emphasis on multimedia tasks and multi-modality methods. 
 
-Post workshop, we plan to write a white paper summarizing the round table discussions and opinions from experts in the field (with necessary permissions). We will also follow through with making a community space on discord (or similar platform) to continue the community building and collaboration post-workshop.
+Therefore, we solicit original research papers in (but not limited to) the following topics:
+
+**Efficiency**
+- Efficient network design in foundation models
+- Training efficiency of foundation models
+- Inference efficiency of foundation models
+
+**Security**
+- Adversarial robustness of foundation models
+- Privacy and memorization in foundation models
+- Trustworthiness and alignment of foundation models
+
+**Generalization**
+- Generalization across tasks
+- Generalization across data
+- Generalization across modalities
+
+The submission guideline follows the main conference site of [ACM-MM 2024](https://2024.acmmm.org/), including the formatting guideline and submission policies. 
+The review process will be "single-blinded”.
+Submissions should be of up to 4-page length in [ACM-MM format](https://2024.acmmm.org/files/ACM-MM24-paper-templates.zip), plus up to 1 additional page for the references.
+The accepted workshop papers will be published in the ACM Digital Library.
+
+Submit your manuscripts through [OpenReview]().
 
 ---
 ## **Important Dates** {#dates}
 
-| Submission Deadline | ~~March 31, 2024~~ | **April 12, 2024** |
-| Final Decisions | ~~April 22, 2024~~ | **April 30, 2024** |
-| Workshop Date | **June 18, 2024** | |
+| Submission Deadline | **July 19, 2024** | |
+| Decision Notification | **August 5, 2024** | |
+| Camera-Ready Deadline | **August 19, 2024** | |
+| Workshop Date | **TBD, Between October 28 - November 1, 2024** | |
 
 ---
 
-## **Schedule** {#schedule}
+## **Tentative Schedule** {#schedule}
+
 The following schedule is tentative and will be confirmed closer to the workshop:
+
+
+10:00 10:10 10:40 11:10 11:20 11:30 11:50 12:00
+
+
 
 |   **Time**  |         **Topic**        |                             **Speaker(s)/Presenter(s)**                            |
 |------------:|:-------------------------|:-----------------------------------------------------------------------------------|
-| 8:30-8:45   | Opening Remarks          | [Dr. Candice Schumann](https://candiceschumann.com/)                               |
-| 8:45-9:15   | Keynote                  | [Dr. Sara Beery](https://beerys.github.io/)                                        |
-| 9:15-9:40   | Rapid Fire Talks 1       | TBD                                                                                |
-| 9:45-10:15  | Poster Session 1         | TBD                                                                                |
-| 10:15-10:45 | Coffee Break             |                                                                                    |
-| 10:45-11:45 | Round Table Discussion 1 |                                                                                    |
-| 11:45-13:00 | Lunch Break              |                                                                                    |
-| 13:00-13:30 | Keynote                  | [Dr. William Agnew](https://sites.google.com/cs.washington.edu/william-agnew/home) |
-| 13:30-14:15 | Round Table Discussion 2 |                                                                                    |
-| 14:15-14:40 | Rapid Fire Talks 2       | TBD                                                                                |
-| 14:45-15:15 | Poster Session 2         | TBD                                                                                |
-| 15:15-15:45 | Coffee Break             |                                                                                    |
-| 15:45-16:45 | Panel Discussion         | **Moderator**: TBD <br><br>**Panelists**: <br>[Nati Catalan](https://www.linkedin.com/in/naticatalan/),<br>[Dr. Sven Cattell](https://www.linkedin.com/in/sven-cattell-5748a311/),<br>[Dr. Morgan Klaus Scheuerman](https://www.morgan-klaus.com/),<br>[Emily McReynolds](https://www.linkedin.com/in/emilymcreynolds/)                                                                                   |
-| 16:45-17:15 | Closing Remarks          | [Dr. Caner Hazirbas](https://hazirbas.com/)                                        |
+| 08:30 | **Start**                              |                                   |
+| 08:30 | Opening remarks                        | TBD                               |
+| 08:40 | Invited talk 1                         | TBD                               |
+| 09:10 | Invited talk 2                         | TBD                               |
+| 09:40 | Oral paper presentation 1              | TBD                               |
+| 09:50 | Oral paper presentation 2              | TBD                               |
+| 10:00 | **Coffee break**                       |                                   |
+| 10:10 | Invited talk 3                         | TBD                               |
+| 10:40 | Invited talk 4                         | TBD                               |
+| 11:10 | Oral paper presentation 3              | TBD                               |
+| 11:20 | Oral paper presentation 4              | TBD                               |
+| 11:30 | **Poster session**                     |                                   |
+| 11:50 | Closing and Awards (Best Poster/Oral)  | TBD                               |
+| 12:00 | **End**                                |                                   |
 
 ---
 
 ## **Keynote Speakers** {#speakers}
-<div class="container">
+
+Coming soon
+
+<!-- <div class="container">
     <figure>
         <a href="https://beerys.github.io/">
         <img class="img-author" src="assets/imgs/authors/cvpr2024/SaraBeery.jpeg" alt="Sara Beery"/></a>
@@ -76,58 +97,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
 <a href="https://beerys.github.io/"><b>Dr. Sara Beery</b></a>
 is the Homer A. Burnell Career Development Professor in the MIT Faculty of Artificial Intelligence and Decision-Making. She was previously a visiting researcher at Google, working on large-scale urban forest monitoring as part of the Auto Arborist project. She received her PhD in Computing and Mathematical Sciences at Caltech in 2022, where she was advised by Pietro Perona and awarded the Amori Doctoral Prize for her thesis. Her research focuses on building computer vision methods that enable global-scale environmental and biodiversity monitoring across data modalities, tackling real-world challenges including geospatial and temporal domain shift, learning from imperfect data, fine-grained categories, and long-tailed distributions. She partners with industry, nongovernmental organizations, and government agencies to deploy her methods in the wild worldwide. She works toward increasing the diversity and accessibility of academic research in artificial intelligence through interdisciplinary capacity building and education, and has founded the AI for Conservation slack community, serves as the Biodiversity Community Lead for Climate Change AI, and founded and directs the Summer Workshop on Computer Vision Methods for Ecology.
 
-<br><br>
-<a href="https://sites.google.com/cs.washington.edu/william-agnew/home"><b>Dr. William Agnew</b></a> coming soon.
-
-</div>
-
----
-## **Panelists** {#panelists}
-<div class="container">
-<figure>
-    <a href="https://www.linkedin.com/in/naticatalan/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/NatiCatalan.jpeg" alt="Nati Catalan"/></a>
-    <b><br><a href="https://www.linkedin.com/in/naticatalan/">Nati Catalan (He/Him)</a>
-    <br>Co-Founder<br>Tasq.ai</b>
-</figure>
-
-<figure>
-    <a href="https://www.linkedin.com/in/sven-cattell-5748a311/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/SvenCattell.jpeg" alt="Sven Cattell"/></a>
-    <b><br><a href="https://www.linkedin.com/in/sven-cattell-5748a311/">Sven Cattell</a>
-    <br>Founder of AI Village<br>nbhd.ai</b>
-</figure>
-
-<figure>
-    <a href="https://www.morgan-klaus.com/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/MorganKlausScheuerman.jpeg" alt="Morgan Klaus Scheuerman"/></a>
-    <b><br><a href="https://www.morgan-klaus.com/">Morgan Klaus Scheuerman (He/Him)</a>
-    <br>Postdoctoral Associate<br>CU Boulder</b>
-</figure>
-
-<figure>
-    <a href="https://www.linkedin.com/in/emilymcreynolds/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/EmilyMcReynolds.jpeg" alt="Emily McReynolds"/></a>
-    <b><br><a href="https://www.linkedin.com/in/emilymcreynolds/">Emily McReynolds</a>
-    <br>Lead AI Strategist<br>Adobe</b>
-</figure>
-</div>
-
-<div class="bio-text">
-<a href="https://www.linkedin.com/in/naticatalan/"><b>Nati Catalan</b></a>
-is a seasoned professional with a background in Computer Science and Mathematics, boasting two decades of leadership in startups and enterprises. Over the past 9 years, Nati has passionately dedicated efforts to bridging the gap between artificial intelligence and human intuition. As the Co-Founder of <a href="https://www.tasq.ai/">Tasq.ai</a>, Nati champions the cause of incorporating humans in machine learning solutions.
-Nati is a firm advocate for the essential role of human guidance in responsible AI development, whose challenges he solves with global, diverse, and responsible human input on an unprecedented scale. This approach has positioned <a href="https://www.tasq.ai/">Tasq.ai</a> a unique platform for Data Science and ML teams, especially those pursuing Responsible AI in an effortless and scalable way.
-
-<br><br>
-<a href="https://www.linkedin.com/in/sven-cattell-5748a311/"><b>Sven Cattell</b></a> coming soon.
-
-<br><br>
-<a href="https://www.morgan-klaus.com/"><b>Morgan Klaus Scheuerman</b></a> coming soon.
-
-<br><br>
-<a href="https://www.linkedin.com/in/emilymcreynolds/"><b>Emily McReynolds (She/Her)</b></a>
-has worked in data protection, machine learning & AI, across academia, civil society, and in the tech industry. In previous roles, she led partnerships with civil society & industry engagement on responsible AI at Meta, and created end-to-end data strategy for ML development at Microsoft. With a passion for translating complex technical concepts into understandable sound bites, she has spearheaded a number of tech explanation projects including AI System Cards, a resource for understanding how AI works in different contexts. She was the founding program director for the University of Washington’s <a href="http://techpolicylab.uw.edu/">Tech Policy Lab</a>, an interdisciplinary collaboration across the Computer Science, Information, and Law schools. She started coding in the time of HTML and taught people to use computers back when we used floppy disks.
-</div>
+ -->
 
 ---
 
@@ -135,93 +105,41 @@ has worked in data protection, machine learning & AI, across academia, civil soc
 <div class="container">
 
 <figure>
-    <a href="https://candiceschumann.com/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/CandiceSchumann.jpeg" alt="Candice Schumann"/></a>
-    <b><br><a href="https://candiceschumann.com/">Candice Schumann (They/She)</a>
-    <br>Research Engineer<br>Google Research</b>
+    <a href="https://daochang.site/">
+    <img class="img-author" src="assets/imgs/authors/daochang_liu.png" alt="Daochang Liu"/></a>
+    <b><br><a href="https://daochang.site/">Daochang Liu</a>
+    <br>Postdoc<br>The University of Sydney</b>
 </figure>
 
 <figure>
-    <a href="https://hazirbas.com/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/CanerHazirbas.jpeg" alt="Caner Hazirbas"/></a>
-    <b><br><a href="https://hazirbas.com/">Caner Hazirbas (He/Him)</a>
-    <br>Research Scientist<br>Meta AI</b>
+    <a href="https://www.cs.cityu.edu.hk/~minjdong/">
+    <img class="img-author" src="assets/imgs/authors/minjing_dong.png" alt="Minjing Dong"/></a>
+    <b><br><a href="https://www.cs.cityu.edu.hk/~minjdong/">Minjing Dong</a>
+    <br>Assistant Professor<br>City University of Hong Kong</b>
 </figure>
 
-<figure>
-    <a href="https://www.cs.princeton.edu/~olgarus/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/OlgaRussakovsky_highres.jpeg" alt="Olga Russakovsky"/></a>
-    <b><br><a href="https://www.cs.princeton.edu/~olgarus/">Olga Russakovsky (She/Her)</a>
-    <br>Associate Professor, CS  <br> Princeton</b>
-</figure>
 
 <figure>
-    <a href="https://www.cs.princeton.edu/~vr23/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/VikramVRamaswamy.jpeg" alt="Vikram V. Ramaswamy"/></a>
-    <b><br><a href="https://www.cs.princeton.edu/~vr23/">Vikram V. Ramaswamy (He/They)</a>
-    <br>Lecturer, CS  <br> Princeton</b>
+    <a href="https://research.monash.edu/en/persons/yasmeen-george">
+    <img class="img-author" src="assets/imgs/authors/yasmeen_george.webp" alt="Yasmeen George"/></a>
+    <b><br><a href="https://research.monash.edu/en/persons/yasmeen-george">Yasmeen George</a>
+    <br>Lecturer<br>Monash University</b>
 </figure>
 
-<figure>
-    <a href="https://ai.sony/people/Jerone-Andrews/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/JeroneAndrews.jpeg" alt="Jerone Andrews"/></a>
-    <b><br><a href="https://ai.sony/people/Jerone-Andrews/">Jerone Andrews (He/Him)</a>
-    <br>Research Scientist<br>Sony AI</b>
-</figure>
 
 <figure>
-    <a href="https://ai.sony/people/Alice-Xiang/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/AliceXiang.jpeg" alt="Alice Xiang"/></a>
-    <b><br><a href="https://ai.sony/people/Alice-Xiang/">Alice Xiang (She/Her)</a>
-    <br>Global Head of AI Ethics<br>Sony AI</b>
+    <a href="http://changxu.xyz/">
+    <img class="img-author" src="assets/imgs/authors/chang_xu.png" alt="Chang Xu"/></a>
+    <b><br><a href="http://changxu.xyz/">Chang Xu</a>
+    <br>Associate Professor<br>The University of Sydney</b>
 </figure>
 
-<figure>
-    <a href="https://www.linkedin.com/in/susanna-ricco/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/SusannaRicco.jpeg" alt="Susanna Ricco"/></a>
-    <b><br><a href="https://www.linkedin.com/in/susanna-ricco/">Susanna Ricco (She/Her)</a>
-    <br>Research Engineer<br>Google Research</b>
-</figure>
-
-<figure>
-    <a href="https://www.linkedin.com/in/courtney-heldreth-phd-3962b329/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/CourtneyHeldreth.png" alt="Courtney Heldreth"/></a>
-    <b><br><a href="https://www.linkedin.com/in/courtney-heldreth-phd-3962b329/">Courtney Heldreth (She/Her)</a>
-    <br>UX Researcher<br>Google Research</b>
-</figure>
-
-<figure>
-    <a href="">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/BiaoWang.jpeg" alt="Biao Wang"/></a>
-    <b><br><a href="">Biao Wang (He/Him)</a>
-    <br>Associate Product Manager<br>Google Research</b>
-</figure>
-
-<figure>
-    <a href="https://cristiancanton.github.io/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/CristianCantonFerrer.jpeg" alt="Cristian Canton Ferrer"/></a>
-    <b><br><a href="https://cristiancanton.github.io/">Cristian Canton Ferrer (He/Him)</a>
-    <br>Head of GenAI Trust & Safety<br>Meta AI</b>
-</figure>
-
-<figure>
-    <a href="https://www.linkedin.com/in/jessholbrook/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/JessHolbrook.jpeg" alt="Jess Holbrook"/></a>
-    <b><br><a href="https://www.linkedin.com/in/jessholbrook/">Jess Holbrook (He/Him)</a>
-    <br>Director and Principal Researcher, GenAI<br>Meta AI</b>
-</figure>
 </div>
 
 ---
 ## **Contact** {#contact}
-Contact the organizers at **[responsibledata@googlegroups.com](mailto:responsibledata@googlegroups.com)**
+Contact the organizers at (To Add)
 
----
-## ~~**Call for Papers**~~ {#call}
+<!-- **[responsibledata@googlegroups.com](mailto:responsibledata@googlegroups.com)** -->
 
-Authors are invited to submit relevent research (including work in progress, novel perspectives, etc.) as extended abstracts for the poster session and workshop discussion. Please see relevent topics above. Accepted abstracts will be presented at the poster session, and will not be included in the printed proceedings of the workshop.
-
-The extended abstract can be at most 4 pages long in [CVPR format](https://github.com/cvpr-org/author-kit/releases), not including references. Authors may supply supplementary material, however, reviewers will not be required to read this material. Reviews will be double blind. The submission deadline is March 31, 2024.
-
-Submit your extended abstracts through [OpenReview](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/Responsible_Data).
 
