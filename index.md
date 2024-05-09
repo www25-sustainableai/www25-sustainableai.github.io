@@ -12,6 +12,9 @@ description: Workshop @ ACM Multimedia 2024
 
 **Submission Deadline: July 19, 2024**
 
+**Submit Platform: [OpenReview](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/ESGMFM)**
+
+
 The rapid progress in foundation models has enhanced the capabilities of multimedia models across a broad spectrum of tasks. Despite their exceptional performance, deploying these models in practical settings raises several concerns, particularly regarding efficiency, security, and generalization. As the utility of foundation models in multimedia topics becomes increasingly evident, addressing these issues is crucial. This workshop focuses on these critical aspects in foundation models, where the scope of the foundation model encompasses a wide range of domains such as vision, language, speech etc., with an emphasis on multimedia tasks and multi-modality methods. 
 
 Therefore, we solicit original research papers in (but not limited to) the following topics:
