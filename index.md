@@ -72,8 +72,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
 | 11:10 | Oral Paper Presentation 3              | TBD                               |
 | 11:20 | Oral Paper Presentation 4              | TBD                               |
 | 11:30 | *Poster Session*                       |                                   |
-<!-- | 11:50 | Closing and Awards (Best Poster/Oral)  | TBD                               | -->
-| 11:50 | Closing                                | TBD                               |
+| 11:50 | Closing and Awards                     | TBD                               |
 | 12:00 | *End*                                  |                                   |
 
 ---
