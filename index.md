@@ -43,6 +43,9 @@ Accepted submissions will be presented via oral or poster sessions.
 The accepted workshop papers will be published in the ACM Digital Library.
 
 Submit your manuscripts through [OpenReview](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/ESGMFM).
+All the authors need to create a profile on OpenReview. 
+New profiles created without an institutional email will go through a moderation process that can take up to two weeks. 
+New profiles created with an institutional email will be activated automatically.
 
 ---
 ## **Important Dates** {#dates}
