@@ -34,6 +34,8 @@ Therefore, we solicit original research papers in (but not limited to) the follo
 - Generalization across data
 - Generalization across modalities
 
+
+We also welcome submissions of demos, datasets, and position papers within the workshop's scopes.
 The submission guideline follows the main conference site of [ACM Multimedia 2024](https://2024.acmmm.org/), including the formatting guideline and submission policies. 
 The review process for this workshop will be "double-blinded”.
 Submissions should be of up to 4-page length in [ACM-MM format](https://2024.acmmm.org/files/ACM-MM24-paper-templates.zip), plus up to 1 additional page for the references.
@@ -47,13 +49,16 @@ All the authors need to create a profile on OpenReview.
 New profiles created without an institutional email will go through a moderation process that can take up to two weeks. 
 New profiles created with an institutional email will be activated automatically.
 
+All accepted papers will be archived in the **ACM Multimedia proceedings**. Authors of accepted papers will be present at the workshop.
+We will select from the accepted papers the **Best Paper Award**, which will be announced during the workshop.
+
 ---
 ## **Important Dates** {#dates}
 
-| Submission Open | **May 11, 2024** |
-| Submission Deadline | **July 19, 2024** |
-| Decision Notification | **August 5, 2024** |
-| Camera-Ready Deadline | **August 19, 2024** |
+| Submission Open | **May 11, 2024 (AoE)** |
+| Submission Deadline | **July 19, 2024 (AoE)** |
+| Decision Notification | **August 5, 2024 (AoE)** |
+| Camera-Ready Deadline | **August 19, 2024 (AoE)** |
 | Workshop Date | **TBD, Half-Day Between Oct 28 - Nov 1, 2024** |
 
 ---
@@ -107,6 +112,13 @@ Coming soon
 is the Homer A. Burnell Career Development Professor in the MIT Faculty of Artificial Intelligence and Decision-Making. She was previously a visiting researcher at Google, working on large-scale urban forest monitoring as part of the Auto Arborist project. She received her PhD in Computing and Mathematical Sciences at Caltech in 2022, where she was advised by Pietro Perona and awarded the Amori Doctoral Prize for her thesis. Her research focuses on building computer vision methods that enable global-scale environmental and biodiversity monitoring across data modalities, tackling real-world challenges including geospatial and temporal domain shift, learning from imperfect data, fine-grained categories, and long-tailed distributions. She partners with industry, nongovernmental organizations, and government agencies to deploy her methods in the wild worldwide. She works toward increasing the diversity and accessibility of academic research in artificial intelligence through interdisciplinary capacity building and education, and has founded the AI for Conservation slack community, serves as the Biodiversity Community Lead for Climate Change AI, and founded and directs the Summer Workshop on Computer Vision Methods for Ecology.
 
  -->
+
+
+<!-- ---
+
+## **Program Committee** {#Committee}
+
+Coming soon -->
 
 ---
 
