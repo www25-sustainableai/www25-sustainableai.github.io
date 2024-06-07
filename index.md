@@ -163,3 +163,9 @@ Contact the organizers at [mm2024-esgmfm@googlegroups.com](mailto:mm2024-esgmfm@
 
 <!-- ## Program Committee
 ## Sponsors -->
+
+--
+## **Sponsors** {#sponsors}
+
+![Meitu](assets/imgs/sponsors/meitu.ong)
+
