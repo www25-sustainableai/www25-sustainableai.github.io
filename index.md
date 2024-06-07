@@ -160,7 +160,7 @@ Coming soon -->
 
 <figure>
     <a href="https://mtlab.meitu.com/en/?lang=en">
-    <img src="assets/imgs/sponsors/meitu.ong" alt="Meitu"/>
+    <img src="assets/imgs/sponsors/meitu.png" alt="Meitu"/>
     </a>
 </figure>
 
