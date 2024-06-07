@@ -156,16 +156,19 @@ Coming soon -->
 </div>
 
 ---
+## **Sponsors** {#sponsors}
+
+<figure>
+    <a href="https://mtlab.meitu.com/en/?lang=en">
+    <img src="assets/imgs/sponsors/meitu.ong" alt="Meitu"/>
+    </a>
+</figure>
+
+---
 ## **Contact** {#contact}
 
 Contact the organizers at [mm2024-esgmfm@googlegroups.com](mailto:mm2024-esgmfm@googlegroups.com)
 
-
 <!-- ## Program Committee
 ## Sponsors -->
-
---
-## **Sponsors** {#sponsors}
-
-![Meitu](assets/imgs/sponsors/meitu.ong)
 
