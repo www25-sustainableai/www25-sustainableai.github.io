@@ -10,7 +10,7 @@ description: Workshop @ ACM Multimedia 2024
 
 ## **Call for Papers** {#call}
 
-**Submission Deadline: <strike>July 19, 2024</strike> Extended to July 29, 2024**
+**Submission Deadline: <strike>July 19, 2024</strike> <span style="color:red">Extended to July 29</span>**
 
 **Submit Platform: [OpenReview](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/ESGMFM)**
 
@@ -54,7 +54,7 @@ New profiles created with an institutional email will be activated automatically
 ## **Important Dates** {#dates}
 
 | Submission Open | **May 11, 2024 (AoE)** |
-| Submission Deadline | **<strike>July 19, 2024</strike> Extended to July 29, 2024 (AoE)** |
+| Submission Deadline | **<strike>July 19, 2024</strike> <span style="color:red">Extended to July 29 (AoE)</span>** |
 | Decision Notification | **August 5, 2024 (AoE)** |
 | Camera-Ready Deadline | **August 19, 2024 (AoE)** |
 | Workshop Date | **TBD, Half-Day Between Oct 28 - Nov 1, 2024** |
