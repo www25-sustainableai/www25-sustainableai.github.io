@@ -127,14 +127,14 @@ Coming soon -->
     <a href="https://daochang.site/">
     <img class="img-author" src="assets/imgs/authors/daochang_liu.jpg" alt="Daochang Liu"/></a>
     <b><br><a href="https://daochang.site/">Daochang Liu</a>
-    <br>Postdoc<br>The University of Sydney</b>
+    <br>The University of Sydney</b>
 </figure>
 
 <figure>
     <a href="https://www.cs.cityu.edu.hk/~minjdong/">
     <img class="img-author" src="assets/imgs/authors/minjing_dong.png" alt="Minjing Dong"/></a>
     <b><br><a href="https://www.cs.cityu.edu.hk/~minjdong/">Minjing Dong</a>
-    <br>Assistant Professor<br>City University of Hong Kong</b>
+    <br>City University of Hong Kong</b>
 </figure>
 
 
@@ -142,7 +142,7 @@ Coming soon -->
     <a href="https://research.monash.edu/en/persons/yasmeen-george">
     <img class="img-author" src="assets/imgs/authors/yasmeen_george.png" alt="Yasmeen George"/></a>
     <b><br><a href="https://research.monash.edu/en/persons/yasmeen-george">Yasmeen George</a>
-    <br>Lecturer<br>Monash University</b>
+    <br>Monash University</b>
 </figure>
 
 
@@ -150,7 +150,7 @@ Coming soon -->
     <a href="http://changxu.xyz/">
     <img class="img-author" src="assets/imgs/authors/chang_xu.jpeg" alt="Chang Xu"/></a>
     <b><br><a href="http://changxu.xyz/">Chang Xu</a>
-    <br>Associate Professor<br>The University of Sydney</b>
+    <br>The University of Sydney</b>
 </figure>
 
 </div>
