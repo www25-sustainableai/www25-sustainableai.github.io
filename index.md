@@ -57,7 +57,7 @@ New profiles created with an institutional email will be activated automatically
 | Submission Deadline | **<strike>July 19, 2024</strike> <span style="color:red">Extended to July 29 (AoE)</span>** |
 | Decision Notification | **August 5, 2024 (AoE)** |
 | Camera-Ready Deadline | **August 19, 2024 (AoE)** |
-| Workshop Date | **TBD, Half-Day Between Oct 28 - Nov 1, 2024** |
+| Workshop Date | **Oct 28, 2024** |
 
 ---
 
