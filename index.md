@@ -10,7 +10,7 @@ description: Workshop @ ACM Multimedia 2024
 
 ## **Call for Papers** {#call}
 
-**Submission Deadline: <strike>July 19, 2024</strike> <span style="color:red">Extended to July 29</span>**
+**Submission Deadline: <strike>July 19, 2024</strike> <span>Extended to July 29</span>**
 
 **Submit Platform: [OpenReview](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/ESGMFM)**
 
@@ -54,13 +54,13 @@ New profiles created with an institutional email will be activated automatically
 ## **Important Dates** {#dates}
 
 | Submission Open | **May 11, 2024 (AoE)** |
-| Submission Deadline | **<strike>July 19, 2024</strike> <span style="color:red">Extended to July 29 (AoE)</span>** |
+| Submission Deadline | **<strike>July 19, 2024</strike> <span>Extended to July 29 (AoE)</span>** |
 | Decision Notification | **August 5, 2024 (AoE)** |
 | Camera-Ready Deadline | **August 19, 2024 (AoE)** |
 | Workshop Date | **Oct 28 PM, 2024** |
 
 ---
-<!-- 
+
 ## **Schedule** {#schedule}
 
 The following schedule is tentative and will be confirmed closer to the workshop:
@@ -69,23 +69,21 @@ The following schedule is tentative and will be confirmed closer to the workshop
 
 |   **Time**  |         **Topic**        |                             **Speakers**                            |
 |------------:|:-------------------------|:-----------------------------------------------------------------------------------|
-| 08:30 | *Start*                                |                                   |
-| 08:30 | Opening Remarks                        | TBD                               |
-| 08:40 | Invited Talk 1                         | TBD                               |
-| 09:10 | Invited Talk 2                         | TBD                               |
-| 09:40 | Oral Paper Presentation 1              | TBD                               |
-| 09:50 | Oral Paper Presentation 2              | TBD                               |
-| 10:00 | *Coffee Break*                         |                                   |
-| 10:10 | Invited Talk 3                         | TBD                               |
-| 10:40 | Invited Talk 4                         | TBD                               |
-| 11:10 | Oral Paper Presentation 3              | TBD                               |
-| 11:20 | Oral Paper Presentation 4              | TBD                               |
-| 11:30 | *Poster Session*                       |                                   |
-| 11:50 | Closing and Awards                     | TBD                               |
-| 12:00 | *End*                                  |                                   |
+| 13:30 | *Start*                                |                                   |
+| 13:30 | Opening Remarks                        | TBD                               |
+| 13:40 | Invited Talk 1                         | TBD                               |
+| 14:10 | Invited Talk 2                         | TBD                               |
+| 14:40 | Paper Presentation 1                   | TBD                               |
+| 14:55 | *Coffee Break*                         |                                   |
+| 15:10 | Invited Talk 3                         | TBD                               |
+| 15:40 | Industry Talk 1                        | TBD                               |
+| 16:10 | Paper Presentation 2                   | TBD                               |
+| 16:25 | Paper Presentation 3                   | TBD                               |
+| 16:40 | Closing and Awards                     | TBD                               |
+| 16:50 | *End*                                  |                                   |
 
 ---
- -->
+
 ## **Invited Speakers** {#speakers}
 
 Coming soon
