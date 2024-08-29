@@ -57,10 +57,10 @@ New profiles created with an institutional email will be activated automatically
 | Submission Deadline | **<strike>July 19, 2024</strike> <span style="color:red">Extended to July 29 (AoE)</span>** |
 | Decision Notification | **August 5, 2024 (AoE)** |
 | Camera-Ready Deadline | **August 19, 2024 (AoE)** |
-| Workshop Date | **Oct 28, 2024** |
+| Workshop Date | **Oct 28 PM, 2024** |
 
 ---
-
+<!-- 
 ## **Schedule** {#schedule}
 
 The following schedule is tentative and will be confirmed closer to the workshop:
@@ -85,7 +85,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
 | 12:00 | *End*                                  |                                   |
 
 ---
-
+ -->
 ## **Invited Speakers** {#speakers}
 
 Coming soon
