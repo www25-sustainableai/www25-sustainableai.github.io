@@ -8,12 +8,6 @@ description: Workshop @ ACM Multimedia 2024
 
 ---
 
-## **Call for Papers** {#call}
-
-**Submission Deadline: <strike>July 19, 2024</strike> <span>Extended to July 29</span>**
-
-**Submit Platform: [OpenReview](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/ESGMFM)**
-
 
 The rapid progress in foundation models has enhanced the capabilities of multimedia models across a broad spectrum of tasks. Despite their exceptional performance, deploying these models in practical settings raises several concerns, particularly regarding efficiency, security, and generalization. As the utility of foundation models in multimedia topics becomes increasingly evident, addressing these issues is crucial. This workshop focuses on these critical aspects in foundation models, where the scope of the foundation model encompasses a wide range of domains such as vision, language, speech etc., with an emphasis on multimedia tasks and multi-modality methods. 
 
@@ -35,21 +29,6 @@ Therefore, we solicit original research papers in (but not limited to) the follo
 - Generalization across modalities
 
 
-We also welcome submissions of demos, datasets, and position papers within the workshop's scopes.
-The submission guideline follows the main conference site of [ACM Multimedia 2024](https://2024.acmmm.org/), including the formatting guideline and submission policies. 
-The review process for this workshop will be "double-blinded”.
-Submissions should be of up to 4-page length in [ACM-MM format](https://2024.acmmm.org/files/ACM-MM24-paper-templates.zip), plus up to 1 additional page for the references.
-
-All papers will be peer-reviewed by at least three experts in the field, regarding the relevance to the workshop, scientific novelty, and technical quality. 
-Accepted submissions will be presented via oral or poster sessions. 
-All accepted papers will be published in the **ACM Multimedia proceedings** in the ACM Digital Library.
-We will select from the accepted papers the **Best Paper Award**, which will be announced during the workshop.
-
-Submit your manuscripts through [OpenReview](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/ESGMFM).
-All the authors need to create a profile on OpenReview. 
-New profiles created without an institutional email will go through a moderation process that can take up to two weeks. 
-New profiles created with an institutional email will be activated automatically.
-
 ---
 ## **Important Dates** {#dates}
 
@@ -70,7 +49,7 @@ The following schedule is tentative and will be confirmed closer to the workshop
 |   **Time**  |         **Topic**        |                             **Speakers/Details**                            |
 |------------:|:-------------------------|:-----------------------------------------------------------------------------------|
 | 13:30 | *Start*                                |                                   |
-| 13:30-13:40 | Opening Remarks                        |                                   |
+| 13:30-13:40 | Welcome Opening                        |                                   |
 | 13:40-14:10 | Invited Talk                         | Dr Piotr Koniusz (Data61, CSIRO)                               |
 | 14:10-14:40 | Invited Talk                         | Prof Jiebo Luo (University of Rochester)                               |
 | 14:40-15:10 | Invited Talk                         | Prof Phoebe Chen (La Trobe University)                               |
@@ -202,6 +181,29 @@ Coming soon -->
 ## **Contact** {#contact}
 
 Contact the organizers at [mm2024-esgmfm@googlegroups.com](mailto:mm2024-esgmfm@googlegroups.com)
+
+
+## **<strike>Call for Papers</strike>** {#call}
+
+**Submission Deadline: <strike>July 19, 2024</strike> <span>Extended to July 29</span>**
+
+**Submit Platform: [OpenReview](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/ESGMFM)**
+
+We welcome submissions of research papers, demos, datasets, and position papers within the workshop's scopes.
+The submission guideline follows the main conference site of [ACM Multimedia 2024](https://2024.acmmm.org/), including the formatting guideline and submission policies. 
+The review process for this workshop will be "double-blinded”.
+Submissions should be of up to 4-page length in [ACM-MM format](https://2024.acmmm.org/files/ACM-MM24-paper-templates.zip), plus up to 1 additional page for the references.
+
+All papers will be peer-reviewed by at least three experts in the field, regarding the relevance to the workshop, scientific novelty, and technical quality. 
+Accepted submissions will be presented via oral or poster sessions. 
+All accepted papers will be published in the **ACM Multimedia proceedings** in the ACM Digital Library.
+We will select from the accepted papers the **Best Paper Award**, which will be announced during the workshop.
+
+Submit your manuscripts through [OpenReview](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/ESGMFM).
+All the authors need to create a profile on OpenReview. 
+New profiles created without an institutional email will go through a moderation process that can take up to two weeks. 
+New profiles created with an institutional email will be activated automatically.
+
 
 <!-- ## Program Committee
 ## Sponsors -->
