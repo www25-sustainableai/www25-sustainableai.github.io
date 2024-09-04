@@ -84,9 +84,9 @@ The following schedule is tentative and will be confirmed closer to the workshop
 
 ---
 
-## **Invited Speakers** {#speakers}
+<!-- ## **Invited Speakers** {#speakers}
 
-Coming soon
+Coming soon -->
 
 <!-- <div class="container">
     <figure>
