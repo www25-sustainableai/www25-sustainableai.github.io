@@ -70,16 +70,16 @@ The following schedule is tentative and will be confirmed closer to the workshop
 |   **Time**  |         **Topic**        |                             **Speakers/Details**                            |
 |------------:|:-------------------------|:-----------------------------------------------------------------------------------|
 | 13:30 | *Start*                                |                                   |
-| 13:30 | Opening Remarks                        |                                   |
-| 13:40 | Invited Talk 1                         | Dr Piotr Koniusz (Data61/CSIRO)                               |
-| 14:10 | Invited Talk 2                         | Prof Jiebo Luo (University of Rochester)                               |
-| 14:40 | Invited Talk 3                         | Prof Phoebe Chen (La Trobe University)                               |
-| 15:10 | *Coffee Break*                         |                                   |
-| 15:25 | Industry Talk 1                        | Dr Luoqi Liu (MT Lab)                              |
-| 15:55 | Paper Presentation 1                   | Object-Driven Human Motion Generation from Images                               |
-| 16:10 | Paper Presentation 2                   | Rethinking the Role-Play Prompting in Mathematical Reasoning Tasks                               |
-| 16:25 | Paper Presentation 3                   | ITCD: Image to Text Translation for Classification by Diffusion Models                               |
-| 16:40 | Closing and Awards                     |                                |
+| 13:30-13:40 | Opening Remarks                        |                                   |
+| 13:40-14:10 | Invited Talk                         | Dr Piotr Koniusz (Data61/CSIRO)                               |
+| 14:10-14:40 | Invited Talk                         | Prof Jiebo Luo (University of Rochester)                               |
+| 14:40-15:10 | Invited Talk                         | Prof Phoebe Chen (La Trobe University)                               |
+| 15:10-15:30 | *Coffee Break*                         |                                   |
+| 15:30-16:00 | Industry Talk                        | Dr Luoqi Liu (MT Lab)                              |
+| 16:00-16:15 | Paper Presentation                   | Object-Driven Human Motion Generation from Images                               |
+| 16:15-16:30 | Paper Presentation                   | Rethinking the Role-Play Prompting in Mathematical Reasoning Tasks                               |
+| 16:30-16:45 | Paper Presentation                   | ITCD: Image to Text Translation for Classification by Diffusion Models                               |
+| 16:45-16:50 | Closing and Awards                     |                                |
 | 16:50 | *End*                                  |                                   |
 
 ---
