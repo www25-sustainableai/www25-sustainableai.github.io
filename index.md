@@ -84,9 +84,45 @@ The following schedule is tentative and will be confirmed closer to the workshop
 
 ---
 
-<!-- ## **Invited Speakers** {#speakers}
+## **Invited Speakers** {#speakers}
 
-Coming soon -->
+
+<div class="container">
+
+<figure>
+    <a href="https://www.koniusz.com/">
+    <img class="img-author" src="assets/imgs/speakers/piotr_koniusz.jpg" alt="Piotr Koniusz"/></a>
+    <b><br><a href="https://www.koniusz.com/">Piotr Koniusz</a>
+    <br>Data61, CSIRO</b>
+</figure>
+
+<figure>
+    <a href="https://www.cs.rochester.edu/u/jluo/">
+    <img class="img-author" src="assets/imgs/speakers/jiebo_luo.jpeg" alt="Jiebo Luo"/></a>
+    <b><br><a href="https://www.cs.rochester.edu/u/jluo/">Jiebo Luo</a>
+    <br>University of Rochester</b>
+</figure>
+
+
+<figure>
+    <a href="https://scholars.latrobe.edu.au/ypchen">
+    <img class="img-author" src="assets/imgs/speakers/phoebe_chen.jpeg" alt="Phoebe Chen"/></a>
+    <b><br><a href="https://scholars.latrobe.edu.au/ypchen">Phoebe Chen</a>
+    <br>La Trobe University</b>
+</figure>
+
+
+<figure>
+    <a href="https://scholar.google.com/citations?user=nw4XTwMAAAAJ&hl=en">
+    <img class="img-author" src="assets/imgs/speakers/luoqi_liu.jpg" alt="Luoqi Liu"/></a>
+    <b><br><a href="https://scholar.google.com/citations?user=nw4XTwMAAAAJ&hl=en">Luoqi Liu</a>
+    <br>MT Lab, Meitu</b>
+</figure>
+
+</div>
+
+
+
 
 <!-- <div class="container">
     <figure>
