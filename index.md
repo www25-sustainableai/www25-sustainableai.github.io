@@ -196,8 +196,8 @@ Submissions should be of up to 4-page length in [ACM-MM format](https://2024.acm
 
 All papers will be peer-reviewed by at least three experts in the field, regarding the relevance to the workshop, scientific novelty, and technical quality. 
 Accepted submissions will be presented via oral or poster sessions. 
-All accepted papers will be published in the **ACM Multimedia proceedings** in the ACM Digital Library.
-We will select from the accepted papers the **Best Paper Award**, which will be announced during the workshop.
+All accepted papers will be published in the ACM Multimedia proceedings in the ACM Digital Library.
+We will select from the accepted papers the Best Paper Award, which will be announced during the workshop.
 
 Submit your manuscripts through [OpenReview](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/ESGMFM).
 All the authors need to create a profile on OpenReview. 
