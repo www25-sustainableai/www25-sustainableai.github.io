@@ -42,24 +42,21 @@ Therefore, we solicit original research papers in (but not limited to) the follo
 
 ## **Schedule** {#schedule}
 
-The following schedule is tentative and will be confirmed closer to the workshop:
-
+**Location: Meeting Room 216**
 
 
 |   **Time**  |         **Topic**        |                             **Speakers/Details**                            |
 |------------:|:-------------------------|:-----------------------------------------------------------------------------------|
-| 13:30 | *Start*                                |                                   |
-| 13:30-13:40 | Welcome Opening                        |                                   |
-| 13:40-14:10 | Invited Talk                         | Dr Piotr Koniusz (Data61, CSIRO)                               |
-| 14:10-14:40 | Invited Talk                         | Prof Jiebo Luo (University of Rochester)                               |
-| 14:40-15:10 | Invited Talk                         | Prof Phoebe Chen (La Trobe University)                               |
-| 15:10-15:30 | *Coffee Break*                         |                                   |
-| 15:30-16:00 | Industry Talk                        | Dr Luoqi Liu (MT Lab, Meitu)                              |
-| 16:00-16:15 | Paper Presentation                   | Object-Driven Human Motion Generation from Images                               |
-| 16:15-16:30 | Paper Presentation                   | Rethinking the Role-Play Prompting in Mathematical Reasoning Tasks                               |
-| 16:30-16:45 | Paper Presentation                   | ITCD: Image to Text Translation for Classification by Diffusion Models                               |
-| 16:45-16:50 | Closing and Awards                     |                                |
-| 16:50 | *End*                                  |                                   |
+| 14:00 | *Start and Welcome*                                |                                   |
+| 14:00-14:30 | Invited Talk                         | Dr Piotr Koniusz (Data61, CSIRO)                               |
+| 14:30-15:00 | Invited Talk                         | Prof Jiebo Luo (University of Rochester)                               |
+| 15:00-15:30 | Invited Talk                         | Prof Phoebe Chen (La Trobe University)                               |
+| 15:30-16:00 | *Afternoon Tea*                         |                                   |
+| 16:00-16:30 | Industry Talk                        | Dr Luoqi Liu (MT Lab, Meitu)                              |
+| 16:30-16:45 | Paper Presentation                   | Object-Driven Human Motion Generation from Images                               |
+| 16:45-17:00 | Paper Presentation                   | Rethinking the Role-Play Prompting in Mathematical Reasoning Tasks                               |
+| 17:00-17:15 | Paper Presentation                   | ITCD: Image to Text Translation for Classification by Diffusion Models                               |
+| 17:15 | *End*                                  |                                   |
 
 ---
 
