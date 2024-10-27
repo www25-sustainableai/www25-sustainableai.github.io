@@ -8,6 +8,25 @@ description: Workshop @ ACM Multimedia 2024
 
 ---
 
+## **Schedule** {#schedule}
+
+**Location: Meeting Room 216**
+
+
+|   **Time**  |         **Topic**        |                             **Speakers/Details**                            |
+|------------:|:-------------------------|:-----------------------------------------------------------------------------------|
+| 14:00 | *Start and Welcome*                                |                                   |
+| 14:00-14:30 | Invited Talk                         | Dr Piotr Koniusz (Data61, CSIRO), *"Adversarial Robustness: From Distillation Across Teacher-Student to Few-shot Foundation Models"*                               |
+| 14:30-15:00 | Invited Talk                         | Prof Jiebo Luo (University of Rochester)                               |
+| 15:00-15:30 | Invited Talk                         | Prof Phoebe Chen (La Trobe University)                               |
+| 15:30-16:00 | *Afternoon Tea*                         |                                   |
+| 16:00-16:30 | Industry Talk                        | Dr Luoqi Liu (MT Lab, Meitu), *"Driving R&D with User Needs: Putting MiracleVision to Work"*                              |
+| 16:30-16:45 | Paper Presentation                   | Object-Driven Human Motion Generation from Images                               |
+| 16:45-17:00 | Paper Presentation                   | Rethinking the Role-Play Prompting in Mathematical Reasoning Tasks                               |
+| 17:00-17:15 | Paper Presentation                   | ITCD: Image to Text Translation for Classification by Diffusion Models                               |
+| 17:15 | *End*                                  |                                   |
+
+---
 
 The rapid progress in foundation models has enhanced the capabilities of multimedia models across a broad spectrum of tasks. Despite their exceptional performance, deploying these models in practical settings raises several concerns, particularly regarding efficiency, security, and generalization. As the utility of foundation models in multimedia topics becomes increasingly evident, addressing these issues is crucial. This workshop focuses on these critical aspects in foundation models, where the scope of the foundation model encompasses a wide range of domains such as vision, language, speech etc., with an emphasis on multimedia tasks and multi-modality methods. 
 
@@ -37,26 +56,6 @@ Therefore, we solicit original research papers in (but not limited to) the follo
 | Decision Notification | **August 5, 2024 (AoE)** |
 | Camera-Ready Deadline | **August 19, 2024 (AoE)** |
 | Workshop Date | **Oct 28 PM, 2024** |
-
----
-
-## **Schedule** {#schedule}
-
-**Location: Meeting Room 216**
-
-
-|   **Time**  |         **Topic**        |                             **Speakers/Details**                            |
-|------------:|:-------------------------|:-----------------------------------------------------------------------------------|
-| 14:00 | *Start and Welcome*                                |                                   |
-| 14:00-14:30 | Invited Talk                         | Dr Piotr Koniusz (Data61, CSIRO), *"Adversarial Robustness: From Distillation Across Teacher-Student to Few-shot Foundation Models"*                               |
-| 14:30-15:00 | Invited Talk                         | Prof Jiebo Luo (University of Rochester)                               |
-| 15:00-15:30 | Invited Talk                         | Prof Phoebe Chen (La Trobe University)                               |
-| 15:30-16:00 | *Afternoon Tea*                         |                                   |
-| 16:00-16:30 | Industry Talk                        | Dr Luoqi Liu (MT Lab, Meitu), *"Driving R&D with User Needs: Putting MiracleVision to Work"*                              |
-| 16:30-16:45 | Paper Presentation                   | Object-Driven Human Motion Generation from Images                               |
-| 16:45-17:00 | Paper Presentation                   | Rethinking the Role-Play Prompting in Mathematical Reasoning Tasks                               |
-| 17:00-17:15 | Paper Presentation                   | ITCD: Image to Text Translation for Classification by Diffusion Models                               |
-| 17:15 | *End*                                  |                                   |
 
 ---
 
