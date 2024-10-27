@@ -17,7 +17,7 @@ description: Workshop @ ACM Multimedia 2024
 |------------:|:-------------------------|:-----------------------------------------------------------------------------------|
 | 14:00 | *Start and Welcome*                                |                                   |
 | 14:00-14:30 | Invited Talk                         | Dr Piotr Koniusz (Data61, CSIRO), *"Adversarial Robustness: From Distillation Across Teacher-Student to Few-shot Foundation Models"*                               |
-| 14:30-15:00 | Invited Talk                         | Prof Jiebo Luo (University of Rochester)                               |
+| 14:30-15:00 | Invited Talk                         | Prof Jiebo Luo (University of Rochester), *" Improving Alignment in T2I and T2V Generation"*                               |
 | 15:00-15:30 | Invited Talk                         | Prof Phoebe Chen (La Trobe University)                               |
 | 15:30-16:00 | *Afternoon Tea*                         |                                   |
 | 16:00-16:30 | Industry Talk                        | Dr Luoqi Liu (MT Lab, Meitu), *"Driving R&D with User Needs: Putting MiracleVision to Work"*                              |
