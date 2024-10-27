@@ -48,11 +48,11 @@ Therefore, we solicit original research papers in (but not limited to) the follo
 |   **Time**  |         **Topic**        |                             **Speakers/Details**                            |
 |------------:|:-------------------------|:-----------------------------------------------------------------------------------|
 | 14:00 | *Start and Welcome*                                |                                   |
-| 14:00-14:30 | Invited Talk                         | Dr Piotr Koniusz (Data61, CSIRO)                               |
+| 14:00-14:30 | Invited Talk                         | Dr Piotr Koniusz (Data61, CSIRO), *"Adversarial Robustness: From Distillation Across Teacher-Student to Few-shot Foundation Models"*                               |
 | 14:30-15:00 | Invited Talk                         | Prof Jiebo Luo (University of Rochester)                               |
 | 15:00-15:30 | Invited Talk                         | Prof Phoebe Chen (La Trobe University)                               |
 | 15:30-16:00 | *Afternoon Tea*                         |                                   |
-| 16:00-16:30 | Industry Talk                        | Dr Luoqi Liu (MT Lab, Meitu), "Driving R&D with User Needs: Putting MiracleVision to Work"                              |
+| 16:00-16:30 | Industry Talk                        | Dr Luoqi Liu (MT Lab, Meitu), *"Driving R&D with User Needs: Putting MiracleVision to Work"*                              |
 | 16:30-16:45 | Paper Presentation                   | Object-Driven Human Motion Generation from Images                               |
 | 16:45-17:00 | Paper Presentation                   | Rethinking the Role-Play Prompting in Mathematical Reasoning Tasks                               |
 | 17:00-17:15 | Paper Presentation                   | ITCD: Image to Text Translation for Classification by Diffusion Models                               |
