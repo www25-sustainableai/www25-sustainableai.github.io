@@ -26,27 +26,6 @@ description: Workshop @ ACM Multimedia 2024
 | 17:00-17:15 | Paper Presentation                   | ITCD: Image to Text Translation for Classification by Diffusion Models                               |
 | 17:15 | *End*                                  |                                   |
 
----
-
-The rapid progress in foundation models has enhanced the capabilities of multimedia models across a broad spectrum of tasks. Despite their exceptional performance, deploying these models in practical settings raises several concerns, particularly regarding efficiency, security, and generalization. As the utility of foundation models in multimedia topics becomes increasingly evident, addressing these issues is crucial. This workshop focuses on these critical aspects in foundation models, where the scope of the foundation model encompasses a wide range of domains such as vision, language, speech etc., with an emphasis on multimedia tasks and multi-modality methods. 
-
-Therefore, we solicit original research papers in (but not limited to) the following topics:
-
-**Efficiency**
-- Efficient network design in foundation models
-- Training efficiency of foundation models
-- Inference efficiency of foundation models
-
-**Security**
-- Adversarial robustness of foundation models
-- Privacy and memorization in foundation models
-- Trustworthiness and alignment of foundation models
-
-**Generalization**
-- Generalization across tasks
-- Generalization across data
-- Generalization across modalities
-
 
 ---
 ## **Important Dates** {#dates}
@@ -180,6 +159,25 @@ Contact the organizers at [mm2024-esgmfm@googlegroups.com](mailto:mm2024-esgmfm@
 
 
 ## **<strike>Call for Papers</strike>** {#call}
+
+The rapid progress in foundation models has enhanced the capabilities of multimedia models across a broad spectrum of tasks. Despite their exceptional performance, deploying these models in practical settings raises several concerns, particularly regarding efficiency, security, and generalization. As the utility of foundation models in multimedia topics becomes increasingly evident, addressing these issues is crucial. This workshop focuses on these critical aspects in foundation models, where the scope of the foundation model encompasses a wide range of domains such as vision, language, speech etc., with an emphasis on multimedia tasks and multi-modality methods. 
+
+Therefore, we solicit original research papers in (but not limited to) the following topics:
+
+**Efficiency**
+- Efficient network design in foundation models
+- Training efficiency of foundation models
+- Inference efficiency of foundation models
+
+**Security**
+- Adversarial robustness of foundation models
+- Privacy and memorization in foundation models
+- Trustworthiness and alignment of foundation models
+
+**Generalization**
+- Generalization across tasks
+- Generalization across data
+- Generalization across modalities
 
 **Submission Deadline: <strike>July 19, 2024</strike> <span>Extended to July 29</span>**
 
