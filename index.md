@@ -1,40 +1,25 @@
 ---
 layout: default
-title: Efficiency, Security, and Generalization of Multimedia Foundation Models
-description: Workshop @ ACM Multimedia 2024
+title: Sustainable AI for the Future Web
+description: Workshop @ The Web Conference 2025
 ---
 
-**Welcome to The 1st Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models at ACM Multimedia 2024!**
+**Welcome to The Workshop on Sustainable AI for the Future Web at The Web Conference 2025!**
 
 ---
 
 ## **Schedule** {#schedule}
 
-**Location: Meeting Room 216**
-
-
-|   **Time**  |         **Topic**        |                             **Speakers/Details**                            |
-|------------:|:-------------------------|:-----------------------------------------------------------------------------------|
-| 14:00 | *Start and Welcome*                                |                                   |
-| 14:00-14:30 | Invited Talk                         | Dr Piotr Koniusz (Data61, CSIRO), *"Adversarial Robustness: From Distillation Across Teacher-Student to Few-shot Foundation Models"*                               |
-| 14:30-15:00 | Invited Talk                         | Prof Jiebo Luo (University of Rochester), *" Improving Alignment in T2I and T2V Generation"*                               |
-| 15:00-15:30 | Invited Talk                         | Prof Phoebe Chen (La Trobe University), *"Multimedia Discovery for Biomedical Applications"*                               |
-| 15:30-16:00 | *Afternoon Tea*                         |                                   |
-| 16:00-16:30 | Industry Talk                        | Dr Luoqi Liu (MT Lab, Meitu), *"Driving R&D with User Needs: Putting MiracleVision to Work"*                              |
-| 16:30-16:45 | Paper Presentation                   | *Object-Driven Human Motion Generation from Images*                               |
-| 16:45-17:00 | Paper Presentation                   | *Rethinking the Role-Play Prompting in Mathematical Reasoning Tasks*                               |
-| 17:00-17:15 | Paper Presentation                   | *ITCD: Image to Text Translation for Classification by Diffusion Models*                               |
-| 17:15 | *End*                                  |                                   |
-
+**Location: TBD**
 
 ---
 ## **Important Dates** {#dates}
 
-| Submission Open | **May 11, 2024 (AoE)** |
-| Submission Deadline | **<strike>July 19, 2024</strike> <span>Extended to July 29 (AoE)</span>** |
-| Decision Notification | **August 5, 2024 (AoE)** |
-| Camera-Ready Deadline | **August 19, 2024 (AoE)** |
-| Workshop Date | **Oct 28 PM, 2024** |
+| Submission Open | **Dec 5, 2024 (AoE)** |
+| Submission Deadline | **<strike>Dec 24, 2024</strike>** |
+| Decision Notification | **March 7, 2025 (AoE)** |
+| Camera-Ready Deadline | **March 14, 2025 (AoE)** |
+| Workshop Date | **Apr 28 PM, 2024 (TBD)** |
 
 ---
 
@@ -112,6 +97,27 @@ Coming soon -->
 <div class="container">
 
 <figure>
+    <a href="http://changxu.xyz/">
+    <img class="img-author" src="assets/imgs/authors/chang_xu.jpeg" alt="Chang Xu"/></a>
+    <b><br><a href="http://changxu.xyz/">Chang Xu</a>
+    <br>The University of Sydney</b>
+</figure>
+
+<figure>
+    <a href="https://yunke-wang.github.io">
+    <img class="img-author" src="" alt="Yunke Wang"/></a>
+    <b><br><a href="https://yunke-wang.github.io">Yunke Wang</a>
+    <br>The University of Sydney</b>
+</figure>
+
+<figure>
+    <a href="https://ggjy.github.io">
+    <img class="img-author" src="assets/imgs/authors/jianyuan.jpg" alt="Jianyuan Guo"/></a>
+    <b><br><a href="https://ggjy.github.io">Jianyuan Guo</a>
+    <br>The University of Sydney</b>
+</figure>
+
+<figure>
     <a href="https://daochang.site/">
     <img class="img-author" src="assets/imgs/authors/daochang_liu.jpg" alt="Daochang Liu"/></a>
     <b><br><a href="https://daochang.site/">Daochang Liu</a>
@@ -133,24 +139,30 @@ Coming soon -->
     <br>Monash University</b>
 </figure>
 
+<figure>
+    <a href="https://scholars.uow.edu.au/johan-barthelemy">
+    <img class="img-author" src="assets/imgs/authors/johan.jpeg" alt="Johan Barthélemy"/></a>
+    <b><br><a href="https://scholars.uow.edu.au/johan-barthelemy">Johan Barthélemy</a>
+    <br>NVIDIA</b>
+</figure>
 
 <figure>
-    <a href="http://changxu.xyz/">
-    <img class="img-author" src="assets/imgs/authors/chang_xu.jpeg" alt="Chang Xu"/></a>
-    <b><br><a href="http://changxu.xyz/">Chang Xu</a>
-    <br>The University of Sydney</b>
+    <a href="https://sites.google.com/view/yanliu-ai/home">
+    <img class="img-author" src="assets/imgs/authors/yanliu.jpeg" alt="Yan Liu"/></a>
+    <b><br><a href="https://sites.google.com/view/yanliu-ai/home">Yan Liu</a>
+    <br>NVIDIA</b>
 </figure>
+
+<figure>
+    <a href="https://profiles.uts.edu.au/Ling.Chen">
+    <img class="img-author" src="assets/imgs/authors/lingchen.jpeg" alt="Ling Chen"/></a>
+    <b><br><a href="https://profiles.uts.edu.au/Ling.Chen">Yan Liu</a>
+    <br>University of Technology Sydney</b>
+</figure>
+
 
 </div>
 
----
-## **Sponsors** {#sponsors}
-
-<figure>
-    <a href="https://mtlab.meitu.com/en/?lang=en">
-    <img src="assets/imgs/sponsors/meitu.png" alt="Meitu"/>
-    </a>
-</figure>
 
 ---
 ## **Contact** {#contact}
