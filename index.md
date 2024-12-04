@@ -83,7 +83,7 @@ Coming soon -->
     <a href="https://daochang.site/">
     <img class="img-author" src="assets/imgs/authors/daochang_liu.jpg" alt="Daochang Liu"/></a>
     <b><br><a href="https://daochang.site/">Daochang Liu</a>
-    <br>The University of Sydney</b>
+    <br>The University of Western Australia</b>
 </figure>
 
 <figure>
@@ -112,7 +112,7 @@ Coming soon -->
     <a href="https://sites.google.com/view/yanliu-ai/home">
     <img class="img-author" src="assets/imgs/authors/yanliu.jpeg" alt="Yan Liu"/></a>
     <b><br><a href="https://sites.google.com/view/yanliu-ai/home">Yan Liu</a>
-    <br>NVIDIA</b>
+    <br>University of Southern California</b>
 </figure>
 
 <figure>
