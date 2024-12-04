@@ -10,7 +10,7 @@ description: Workshop @ The Web Conference 2025
 
 ## **Call for Papers** {#call}
 
-Web applications such as social media, e-commerce platforms, and search engines generate vast and diverse datasets that fuel AI advancements, enabling models to learn from real-world, dynamic information. Meanwhile, AI models are increasingly deployed within these web applications \cite{breit2023combining}. Tools like ChatGPT, DALL·E, and sophisticated recommendation systems have seamlessly integrated into web-based services, delivering highly personalized user experiences, optimizing decision-making processes, and greatly enhancing productivity in areas like customer support, content creation, and data analysis. However, as AI and the web become more deeply intertwined, they also introduce significant challenges in building sustainable AI for the web.
+Web applications such as social media, e-commerce platforms, and search engines generate vast and diverse datasets that fuel AI advancements, enabling models to learn from real-world, dynamic information. Meanwhile, AI models are increasingly deployed within these web applications. Tools like ChatGPT, DALL·E, and sophisticated recommendation systems have seamlessly integrated into web-based services, delivering highly personalized user experiences, optimizing decision-making processes, and greatly enhancing productivity in areas like customer support, content creation, and data analysis. However, as AI and the web become more deeply intertwined, they also introduce significant challenges in building sustainable AI for the web.
 
 This workshop will explore essential topics at the intersection of AI, sustainability, and the web, focusing on creating AI systems that are robust, energy-efficient, and ethically responsible within web applications. As AI models become increasingly integrated into platforms like social media, e-commerce, and search engines, their reliance on vast amounts of web data raises concerns around data quality, fairness, and computational resource demands. Key topics of discussion include, but are not limited to:
 
@@ -20,7 +20,7 @@ This workshop will explore essential topics at the intersection of AI, sustainab
 
 - **Security, Robustness, and Fairness:** Techniques to improve the resilience of AI systems trained on noisy, diverse web data, ensuring they operate securely and equitably across varied user demographics. 
 
-**Submission Deadline: December 24, 2024, AOE**
+**Submission Deadline: Dec 24, 2024, AoE**
 
 **Submit Platform: [EasyChair]**
 
@@ -31,8 +31,8 @@ Accepted papers will be posted on this workshop website. By default, accepted pa
 
 ## **Important Dates** {#dates}
 
-| Submission Open | **Dec 5, 2024 (AoE)** |
-| Submission Deadline | **Dec 24, 2024** |
+| Submission Open | **Dec 5, 2024** |
+| Submission Deadline | **Dec 24, 2024 (AoE)** |
 | Decision Notification | **March 7, 2025 (AoE)** |
 | Camera-Ready Deadline | **March 14, 2025 (AoE)** |
 | Workshop Date | **Apr 28 PM, 2024 (TBD)** |
