@@ -8,7 +8,7 @@ description: Workshop @ The Web Conference 2025
 
 ---
 
-## **<strike>Call for Papers</strike>** {#call}
+## **Call for Papers** {#call}
 
 Web applications such as social media, e-commerce platforms, and search engines generate vast and diverse datasets that fuel AI advancements, enabling models to learn from real-world, dynamic information. Meanwhile, AI models are increasingly deployed within these web applications \cite{breit2023combining}. Tools like ChatGPT, DALL·E, and sophisticated recommendation systems have seamlessly integrated into web-based services, delivering highly personalized user experiences, optimizing decision-making processes, and greatly enhancing productivity in areas like customer support, content creation, and data analysis. However, as AI and the web become more deeply intertwined, they also introduce significant challenges in building sustainable AI for the web.
 
