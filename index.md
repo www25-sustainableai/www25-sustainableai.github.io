@@ -129,7 +129,7 @@ Coming soon -->
 ---
 ## **Contact** {#contact}
 
-Contact the organizers at [yunke.wang@sydney.edu.au](yunke.wang@sydney.edu.au)
+Contact the organizers at [this email](yunke.wang@sydney.edu.au)
 
 
 
