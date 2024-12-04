@@ -8,6 +8,27 @@ description: Workshop @ The Web Conference 2025
 
 ---
 
+## **<strike>Call for Papers</strike>** {#call}
+
+Web applications such as social media, e-commerce platforms, and search engines generate vast and diverse datasets that fuel AI advancements, enabling models to learn from real-world, dynamic information. Meanwhile, AI models are increasingly deployed within these web applications \cite{breit2023combining}. Tools like ChatGPT, DALL·E, and sophisticated recommendation systems have seamlessly integrated into web-based services, delivering highly personalized user experiences, optimizing decision-making processes, and greatly enhancing productivity in areas like customer support, content creation, and data analysis. However, as AI and the web become more deeply intertwined, they also introduce significant challenges in building sustainable AI for the web.
+
+This workshop will explore essential topics at the intersection of AI, sustainability, and the web, focusing on creating AI systems that are robust, energy-efficient, and ethically responsible within web applications. As AI models become increasingly integrated into platforms like social media, e-commerce, and search engines, their reliance on vast amounts of web data raises concerns around data quality, fairness, and computational resource demands. Key topics of discussion include, but are not limited to:
+
+**Sustainable AI Model Development:** Methods to reduce the carbon footprint and computational demands of training and deploying AI models on the web.
+
+**Data Integrity and Filtering Mechanism:** Strategies to handle the proliferation of low-quality and AI-generated content that risks polluting the web and undermining data quality.
+
+**Security, Robustness, and Fairness:** Techniques to improve the resilience of AI systems trained on noisy, diverse web data, ensuring they operate securely and equitably across varied user demographics. 
+
+**Submission Deadline: <strike>December 24, 2024, AOE</strike>**
+
+**Submit Platform: [EasyChair]**
+
+We welcome submissions of papers ranging from 4 to 8 pages as main content, with up to 2 additional pages containing references and an optional appendix. All submissions must be in PDF format and formatted according to the new ACM format published in ACM guidelines (e.g., using the ACM LaTeX template on Overleaf) and selecting the “sigconf” sample. Following the WWW’25 conference submission policy, reviews are double-blind, and author names and affiliations should NOT be listed. Submitted works will be assessed based on their novelty, technical quality, potential impact, and clarity of writing (and should be in English). For papers that primarily rely on empirical evaluations, the experimental settings and results should be clearly presented and repeatable. We encourage authors to make data and code available publicly when possible.
+
+Accepted papers will be posted on this workshop website. By default, accepted papers will not appear in the WWW’25 proceedings and are thus non-archival. This allows authors to submit works that are concurrently under review elsewhere or published. However, authors also have the option to choose archival status, in which case the paper will be included in the official proceeding. Please send us an email in advance if you would like to include the accepted paper in the official proceeding.
+
+
 ## **Schedule** {#schedule}
 
 **Location: TBD**
@@ -109,45 +130,6 @@ Coming soon -->
 
 Contact the organizers at [mm2024-esgmfm@googlegroups.com](mailto:mm2024-esgmfm@googlegroups.com)
 
-
-## **<strike>Call for Papers</strike>** {#call}
-
-The rapid progress in foundation models has enhanced the capabilities of multimedia models across a broad spectrum of tasks. Despite their exceptional performance, deploying these models in practical settings raises several concerns, particularly regarding efficiency, security, and generalization. As the utility of foundation models in multimedia topics becomes increasingly evident, addressing these issues is crucial. This workshop focuses on these critical aspects in foundation models, where the scope of the foundation model encompasses a wide range of domains such as vision, language, speech etc., with an emphasis on multimedia tasks and multi-modality methods. 
-
-Therefore, we solicit original research papers in (but not limited to) the following topics:
-
-**Efficiency**
-- Efficient network design in foundation models
-- Training efficiency of foundation models
-- Inference efficiency of foundation models
-
-**Security**
-- Adversarial robustness of foundation models
-- Privacy and memorization in foundation models
-- Trustworthiness and alignment of foundation models
-
-**Generalization**
-- Generalization across tasks
-- Generalization across data
-- Generalization across modalities
-
-**Submission Deadline: <strike>July 19, 2024</strike> <span>Extended to July 29</span>**
-
-**Submit Platform: [OpenReview](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/ESGMFM)**
-
-We welcome submissions of research papers, demos, datasets, and position papers within the workshop's scopes.
-The submission guideline follows the main conference site of [ACM Multimedia 2024](https://2024.acmmm.org/), including the formatting guideline and submission policies. 
-The review process for this workshop will be "double-blinded”.
-Submissions should be of up to 4-page length in [ACM-MM format](https://2024.acmmm.org/files/ACM-MM24-paper-templates.zip), plus up to 1 additional page for the references.
-
-All papers will be peer-reviewed by at least three experts in the field, regarding the relevance to the workshop, scientific novelty, and technical quality. 
-Accepted submissions will be presented via oral or poster sessions. 
-All accepted papers will be published in the ACM Multimedia proceedings in the ACM Digital Library.
-
-Submit your manuscripts through [OpenReview](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/ESGMFM).
-All the authors need to create a profile on OpenReview. 
-New profiles created without an institutional email will go through a moderation process that can take up to two weeks. 
-New profiles created with an institutional email will be activated automatically.
 
 
 <!-- ## Program Committee
