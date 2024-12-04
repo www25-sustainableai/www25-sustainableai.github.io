@@ -20,7 +20,7 @@ This workshop will explore essential topics at the intersection of AI, sustainab
 
 - **Security, Robustness, and Fairness:** Techniques to improve the resilience of AI systems trained on noisy, diverse web data, ensuring they operate securely and equitably across varied user demographics. 
 
-**Submission Deadline: Dec 24, 2024, AoE**
+**Submission Deadline: December 24, 2024, AoE**
 
 **Submit Platform: [EasyChair]**
 
@@ -31,11 +31,11 @@ Accepted papers will be posted on this workshop website. By default, accepted pa
 
 ## **Important Dates** {#dates}
 
-| Submission Open | **Dec 5, 2024** |
-| Submission Deadline | **Dec 24, 2024 (AoE)** |
+| Submission Open | **December 5, 2024** |
+| Submission Deadline | **December 24, 2024 (AoE)** |
 | Decision Notification | **March 7, 2025 (AoE)** |
 | Camera-Ready Deadline | **March 14, 2025 (AoE)** |
-| Workshop Date | **Apr 28 PM, 2024 (TBD)** |
+| Workshop Date | **April 28 PM, 2024 (TBD)** |
 
 ---
 
