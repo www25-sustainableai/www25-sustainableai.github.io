@@ -14,13 +14,13 @@ Web applications such as social media, e-commerce platforms, and search engines 
 
 This workshop will explore essential topics at the intersection of AI, sustainability, and the web, focusing on creating AI systems that are robust, energy-efficient, and ethically responsible within web applications. As AI models become increasingly integrated into platforms like social media, e-commerce, and search engines, their reliance on vast amounts of web data raises concerns around data quality, fairness, and computational resource demands. Key topics of discussion include, but are not limited to:
 
-**Sustainable AI Model Development:** Methods to reduce the carbon footprint and computational demands of training and deploying AI models on the web.
+- **Sustainable AI Model Development:** Methods to reduce the carbon footprint and computational demands of training and deploying AI models on the web.
 
-**Data Integrity and Filtering Mechanism:** Strategies to handle the proliferation of low-quality and AI-generated content that risks polluting the web and undermining data quality.
+- **Data Integrity and Filtering Mechanism:** Strategies to handle the proliferation of low-quality and AI-generated content that risks polluting the web and undermining data quality.
 
-**Security, Robustness, and Fairness:** Techniques to improve the resilience of AI systems trained on noisy, diverse web data, ensuring they operate securely and equitably across varied user demographics. 
+- **Security, Robustness, and Fairness:** Techniques to improve the resilience of AI systems trained on noisy, diverse web data, ensuring they operate securely and equitably across varied user demographics. 
 
-**Submission Deadline: <strike>December 24, 2024, AOE</strike>**
+**Submission Deadline: December 24, 2024, AOE**
 
 **Submit Platform: [EasyChair]**
 
@@ -29,21 +29,22 @@ We welcome submissions of papers ranging from 4 to 8 pages as main content, with
 Accepted papers will be posted on this workshop website. By default, accepted papers will not appear in the WWW’25 proceedings and are thus non-archival. This allows authors to submit works that are concurrently under review elsewhere or published. However, authors also have the option to choose archival status, in which case the paper will be included in the official proceeding. Please send us an email in advance if you would like to include the accepted paper in the official proceeding.
 
 
-## **Schedule** {#schedule}
-
-**Location: TBD**
-
----
 ## **Important Dates** {#dates}
 
 | Submission Open | **Dec 5, 2024 (AoE)** |
-| Submission Deadline | **<strike>Dec 24, 2024</strike>** |
+| Submission Deadline | **Dec 24, 2024** |
 | Decision Notification | **March 7, 2025 (AoE)** |
 | Camera-Ready Deadline | **March 14, 2025 (AoE)** |
 | Workshop Date | **Apr 28 PM, 2024 (TBD)** |
 
 ---
 
+
+## **Schedule** {#schedule}
+
+**Location: TBD**
+
+---
 
 
 <!-- ---
@@ -66,7 +67,7 @@ Coming soon -->
 
 <figure>
     <a href="https://yunke-wang.github.io">
-    <img class="img-author" src="" alt="Yunke Wang"/></a>
+    <img class="img-author" src="assets/imgs/authors/yunke.jpg" alt="Yunke Wang"/></a>
     <b><br><a href="https://yunke-wang.github.io">Yunke Wang</a>
     <br>The University of Sydney</b>
 </figure>
@@ -128,7 +129,7 @@ Coming soon -->
 ---
 ## **Contact** {#contact}
 
-Contact the organizers at [mm2024-esgmfm@googlegroups.com](mailto:mm2024-esgmfm@googlegroups.com)
+Contact the organizers at [yunke.wang@sydney.edu.au](yunke.wang@sydney.edu.au)
 
 
 
