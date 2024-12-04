@@ -42,7 +42,7 @@ Accepted papers will be posted on this workshop website. By default, accepted pa
 
 ## **Schedule** {#schedule}
 
-**Location: TBD**
+**Location: Sydney, New South Wales, Australia**
 
 ---
 
