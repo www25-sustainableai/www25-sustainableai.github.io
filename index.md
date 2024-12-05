@@ -118,7 +118,7 @@ Coming soon -->
 <figure>
     <a href="https://profiles.uts.edu.au/Ling.Chen">
     <img class="img-author" src="assets/imgs/authors/lingchen.jpeg" alt="Ling Chen"/></a>
-    <b><br><a href="https://profiles.uts.edu.au/Ling.Chen">Yan Liu</a>
+    <b><br><a href="https://profiles.uts.edu.au/Ling.Chen">Ling Chen</a>
     <br>University of Technology Sydney</b>
 </figure>
 
