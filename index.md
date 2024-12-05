@@ -129,9 +129,7 @@ Coming soon -->
 ---
 ## **Contact** {#contact}
 
-Contact the organizers at [this email](yunke.wang@sydney.edu.au)
-
-
+Contact the organizers at [workshopsai24@gmail.com](workshopsai24@gmail.com).
 
 <!-- ## Program Committee
 ## Sponsors -->
