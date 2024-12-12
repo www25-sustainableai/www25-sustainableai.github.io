@@ -33,8 +33,8 @@ Accepted papers will be posted on this workshop website. By default, accepted pa
 
 | Submission Open | **December 5, 2024** |
 | Submission Deadline | **December 24, 2024 (AoE)** |
-| Decision Notification | **March 7, 2025 (AoE)** |
-| Camera-Ready Deadline | **March 14, 2025 (AoE)** |
+| Decision Notification | **January 13, 2025 (AoE)** |
+| Camera-Ready Deadline | **Februray 2, 2025 (AoE)** |
 | Workshop Date | **April 28 PM, 2025 (TBD)** |
 
 ---
