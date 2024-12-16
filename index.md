@@ -35,7 +35,7 @@ Accepted papers will be posted on this workshop website. Papers accepted by a wo
 | Submission Deadline | **January 1, 2025 (AoE)** |
 | Decision Notification | **January 27, 2025 (AoE)** |
 | Camera-Ready Deadline | **Februray 7, 2025 (AoE)** |
-| Workshop Date | **April 28 PM, 2025 (TBD)** |
+| Workshop Date | **April 28 AM, 2025 (TBD)** |
 
 ---
 
