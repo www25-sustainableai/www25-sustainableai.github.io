@@ -42,6 +42,17 @@ Accepted papers will be posted on this workshop website. Papers accepted by a wo
 
 ## **Schedule** {#schedule}
 
+| 9:00 | Start |
+| 9:00 - 9:30 | Invited Talk 1 |
+| 9:30 - 10:00 | Invited Talk 2 |
+| 10:00 - 10:30 | Invited Talk 3 |
+| 10:30 - 11:00 | Morning tea and poster sessions |
+| 11:00 - 11:30 | Special session of the Environmental Open Data Challenge |
+| 11:30 - 11:40 | Paper presentation 1 |
+| 11:40 - 11:50 | Paper presentation 2 |
+| 11:50 - 12:00 | Paper presentation 3 |
+| 12:00 | Closing |
+
 **Location: Sydney, New South Wales, Australia**
 
 ---
