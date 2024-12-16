@@ -129,7 +129,7 @@ Coming soon -->
 ---
 ## **Contact** {#contact}
 
-Contact the organizers at [workshopsai24@gmail.com](workshopsai24@gmail.com).
+Contact the organizers at [workshopsai25@gmail.com](workshopsai24@gmail.com).
 
 <!-- ## Program Committee
 ## Sponsors -->
