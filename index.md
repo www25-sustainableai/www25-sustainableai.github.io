@@ -22,6 +22,8 @@ This workshop will explore essential topics at the intersection of AI, sustainab
 
 **Submission Deadline: January 1, 2025, AoE**
 
+**Fast Track for WWW-25 Accepted Paper Submission Deadline: January 26, 2025, AoE**
+
 **Submit Platform: [Openreview](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/WSAI)**
 
 We welcome submissions of papers ranging from 4 to 8 pages as main content, with up to 2 additional pages containing references and an optional appendix. All submissions must be in PDF format and formatted according to the new [ACM format](https://www.acm.org/publications/proceedings-template) published in ACM guidelines (e.g., using the ACM LaTeX template on [Overleaf](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty)) and selecting the “sigconf” sample. Following the WWW’25 conference submission policy, reviews are double-blind, and author names and affiliations should NOT be listed. Submitted works will be assessed based on their novelty, technical quality, potential impact, and clarity of writing (and should be in English). For papers that primarily rely on empirical evaluations, the experimental settings and results should be clearly presented and repeatable. We encourage authors to make data and code available publicly when possible.
