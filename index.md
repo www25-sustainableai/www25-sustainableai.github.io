@@ -34,7 +34,7 @@ Accepted papers will be posted on this workshop website. Papers accepted by a wo
 
 | Submission Open | **December 5, 2024** |
 | Submission Deadline | **January 1, 2025 (AoE)** |
-| WWW-25 Accepted Paper Fast-Track Submission Deadline | **January 26, 2025 (AoE)** |
+| WWW-25 Fast-Track Submission Deadline | **January 26, 2025 (AoE)** |
 | Decision Notification | **January 27, 2025 (AoE)** |
 | Camera-Ready Deadline | **Februray 7, 2025 (AoE)** |
 | Workshop Date | **April 28 AM, 2025** |
