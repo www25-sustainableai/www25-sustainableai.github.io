@@ -40,7 +40,7 @@ Accepted papers will be posted on this workshop website. Papers accepted by a wo
 
 ---
 
-## **Accepted Papers** {#Accfepted Papers}
+## **Accepted Papers** {#Accepted Papers}
 
 - **GPT4Image: Large Pre-trained Models Help Vision Models Learn Better on Perception Task**
   
