@@ -20,6 +20,7 @@ This workshop will explore essential topics at the intersection of AI, sustainab
 
 - **Security, Robustness, and Fairness:** Techniques to improve the resilience of AI systems trained on noisy, diverse web data, ensuring they operate securely and equitably across varied user demographics. 
 
+<-- 
 **Fast Track for WWW-25 Accepted Paper Submission Deadline: January 26, 2025, AoE**
 
 **Submit Platform: [Openreview](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/WSAI)**
@@ -27,7 +28,7 @@ This workshop will explore essential topics at the intersection of AI, sustainab
 We welcome submissions of papers ranging from 4 to 8 pages as main content, with up to 2 additional pages containing references and an optional appendix. All submissions must be in PDF format and formatted according to the new [ACM format](https://www.acm.org/publications/proceedings-template) published in ACM guidelines (e.g., using the ACM LaTeX template on [Overleaf](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty)) and selecting the “sigconf” sample. Following the WWW’25 conference submission policy, reviews are double-blind, and author names and affiliations should NOT be listed. Submitted works will be assessed based on their novelty, technical quality, potential impact, and clarity of writing (and should be in English). For papers that primarily rely on empirical evaluations, the experimental settings and results should be clearly presented and repeatable. We encourage authors to make data and code available publicly when possible.
 
 Accepted papers will be posted on this workshop website. Papers accepted by a workshop can be included in the Companion Proceedings of the Web Conference 2025, subject to meeting the camera-ready timeline. The authors can also choose not to have their accepted papers appear in the WWW’25 proceedings. This allows authors to submit works that are concurrently under review elsewhere or published. Please send us an email in advance if you would like to include the accepted paper in the official proceeding.
-
+-->
 
 ## **Important Dates** {#dates}
 
