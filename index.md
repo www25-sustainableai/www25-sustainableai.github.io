@@ -70,7 +70,7 @@ Accepted papers will be posted on this workshop website. Papers accepted by a wo
 
 ## **Schedule** {#schedule}
 
-| 8:55-9:00 | Start | Dr. Yunke Wang, University of Sydney, Opening Remarks |
+| 8:55-9:00 | Start | Opening Remarks |
 | 9:00 - 9:30 | Invited Talk 1 |  Dr. Tomasz Bednarz, NVIDIA, "_Foundation Models and Microservices for Advancing Generative AI Research Running Efficiently on GPUs Anywhere_" |
 | 9:30 - 10:00 | Invited Talk 2 | TBD |
 | 10:00 - 10:30 | Invited Talk 3 | TBD |
