@@ -40,6 +40,32 @@ Accepted papers will be posted on this workshop website. Papers accepted by a wo
 
 ---
 
+## **Accepted Papers** {#Accfepted Papers}
+
+1. GPT4Image: Large Pre-trained Models Help Vision Models Learn Better on Perception Task
+  
+  Ning Ding (Peking University), Yehui Tang (Huawei), Zhongqian Fu (Huawei), Chao Xu (Peking University), Kai Han (Huawei), Yunhe Wang (Huawei)
+
+2. HSF: Defending against Jailbreak Attacks with Hidden State Filtering
+
+  Cheng Qian (Beihang University), Hainan Zhang (Beihang University), Lei Sha (Beihang University), Zhiming Zheng (Beihang University)
+
+3. KG-UQ: Knowledge Graph-Based Uncertainty Quantification for Long Text in Large Language Models
+
+  Yingqing Yuan (University of Sydney), Linwei Tao (University of Sydney), Haohui Lu (University of Sydney), Matloob Khushi (University of Suffolk), Imran Razzak (Mohamed bin Zayed University of Artificial Intelligence), Mark Dras (Macquarie University), Jian Yang (Macquarie University), Usman Naseem (Macquarie University)
+
+4. Integrating Edge Computing-Based Ethical Decision-Making Framework for AI
+
+  Jimin Ryu (Sookmyung Women's University), Hyeyoung Kim (Sookmyung Women's University), Yong Ik Yoon (Sookmyung Women's University)
+
+5. OpenCarbonEval: How much $CO_2$ will your large model exhale during training?
+
+  Zhaojian Yu (Tsinghua University), Yinghao Wu (Tsinghua University), Zhuotao Deng (Tsinghua University), Xinchun Yu (Tsinghua University), Yansong Tang (Tsinghua University), Xiao-Ping Zhang (Tsinghua University)
+
+6. Your Diffusion Classifier is Naturally a Robust Classifier
+
+  Yanxiang Ma (University of Sydney), Zixuan Huang (Beijing University of Posts and Telecommunications), Shan You (SenseTime Research)
+
 
 ## **Schedule** {#schedule}
 
