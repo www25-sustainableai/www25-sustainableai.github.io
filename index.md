@@ -36,22 +36,22 @@ Accepted papers will be posted on this workshop website. Papers accepted by a wo
 | WWW-25 Accepted Paper Fast-Track Submission Deadline | **January 26, 2025 (AoE)** |
 | Decision Notification | **January 27, 2025 (AoE)** |
 | Camera-Ready Deadline | **Februray 7, 2025 (AoE)** |
-| Workshop Date | **April 28 AM, 2025 (TBD)** |
+| Workshop Date | **April 28 AM, 2025** |
 
 ---
 
 
 ## **Schedule** {#schedule}
 
-| 9:00 | Start |
-| 9:00 - 9:30 | Invited Talk 1 |
-| 9:30 - 10:00 | Invited Talk 2 |
-| 10:00 - 10:30 | Invited Talk 3 |
+| 9:00 | Start | Speaker Details |
+| 9:00 - 9:30 | Invited Talk 1 |  Dr. Tomasz Bednarz, NVIDIA, "_Foundation Models and Microservices for Advancing Generative AI Research Running Efficiently on GPUs Anywhere_" |
+| 9:30 - 10:00 | Invited Talk 2 | TBD |
+| 10:00 - 10:30 | Invited Talk 3 | TBD |
 | 10:30 - 11:00 | Morning tea and poster sessions |
-| 11:00 - 11:30 | Special session of the Environmental Open Data Challenge |
-| 11:30 - 11:40 | Paper presentation 1 |
-| 11:40 - 11:50 | Paper presentation 2 |
-| 11:50 - 12:00 | Paper presentation 3 |
+| 11:00 - 11:15 | Special session of the Environmental Open Data Challenge |
+| 11:15 - 11:30 | Paper presentation 1 | TBD  |
+| 11:30 - 11:45 | Paper presentation 2 | TBD |
+| 11:45 - 12:00 | Paper presentation 3 | TBD ｜
 | 12:00 | Closing |
 
 **Location: Sydney, New South Wales, Australia**
