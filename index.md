@@ -20,7 +20,7 @@ This workshop will explore essential topics at the intersection of AI, sustainab
 
 - **Security, Robustness, and Fairness:** Techniques to improve the resilience of AI systems trained on noisy, diverse web data, ensuring they operate securely and equitably across varied user demographics. 
 
-<-- 
+<!-- 
 **Fast Track for WWW-25 Accepted Paper Submission Deadline: January 26, 2025, AoE**
 
 **Submit Platform: [Openreview](https://openreview.net/group?id=ACM.org/TheWebConf/2025/Workshop/WSAI)**
@@ -41,7 +41,7 @@ Accepted papers will be posted on this workshop website. Papers accepted by a wo
 
 ---
 
-## **Accepted Papers** {#Accepted Papers}
+## **Accepted Papers**
 
 - **GPT4Image: Large Pre-trained Models Help Vision Models Learn Better on Perception Task**
   
