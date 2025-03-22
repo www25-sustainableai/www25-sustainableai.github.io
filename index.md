@@ -81,7 +81,7 @@ Accepted papers will be posted on this workshop website. Papers accepted by a wo
 | 11:45 - 12:00 | Paper presentation 3 | TBD |
 | 12:00 | Closing |
 
-**Location: Sydney, New South Wales, Australia**
+**Location: ICC Sydney: International Convention & Exhibition Centre**
 
 ---
 
