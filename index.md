@@ -78,7 +78,7 @@ Accepted papers will be posted on this workshop website. Papers accepted by a wo
 | 11:00 - 11:15 | Paper presentation 1 | Yingqing Yuan, USYD, "_KG-UQ: Knowledge Graph-Based Uncertainty Quantification for Long Text in Large Language Models_" |
 | 11:15 - 11:30 | Paper presentation 2 | Ning Ding, PKU, "_GPT4Image: Large Pre-trained Models Help Vision Models Learn Better on Perception Task_" |
 | 11:30 - 11:45 | Paper presentation 3 | Yanxiang Ma, USYD, "_Your Diffusion Classifier is Naturally a Robust Classifier_" |
-| 11:45 - 12:00 | Special session of the Environmental Open Data Challenge |
+| 11:45 - 12:00 | Special session of the Environmental Open Data Challenge | Xiaoyin Zhang, USYD |
 | 12:00 | Closing |
 
 **Location: ICC Sydney: International Convention & Exhibition Centre**
