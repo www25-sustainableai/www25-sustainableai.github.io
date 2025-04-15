@@ -71,15 +71,16 @@ Accepted papers will be posted on this workshop website. Papers accepted by a wo
 ## **Schedule** {#schedule}
 
 | 8:55-9:00 | Start | Opening Remarks |
-| 9:00 - 9:30 | Invited Talk 1 |  [Dr. Tomasz Bednarz](http://tomaszbednarz.com), NVIDIA, "_Foundation Models and Microservices for Advancing Generative AI Research Running Efficiently on GPUs Anywhere_" |
+| 9:00 - 9:30 | Invited Talk 1 | TBD |
 | 9:30 - 10:00 | Invited Talk 2 | TBD |
 | 10:00 - 10:30 | Invited Talk 3 | TBD |
-| 10:30 - 11:00 | Morning tea and poster sessions |
-| 11:00 - 11:15 | Paper presentation 1 | Yingqing Yuan, USYD, "_KG-UQ: Knowledge Graph-Based Uncertainty Quantification for Long Text in Large Language Models_" |
-| 11:15 - 11:30 | Paper presentation 2 | Ning Ding, PKU, "_GPT4Image: Large Pre-trained Models Help Vision Models Learn Better on Perception Task_" |
-| 11:30 - 11:45 | Paper presentation 3 | Yanxiang Ma, USYD, "_Your Diffusion Classifier is Naturally a Robust Classifier_" |
-| 11:45 - 12:00 | Special session of the Environmental Open Data Challenge | Xiaoyin Zhang, USYD |
-| 12:00 | Closing |
+| 10:30 - 11:00 | Morning tea |
+| 11:00 - 11:30 | Invited Talk 4 | [Dr. Tomasz Bednarz](http://tomaszbednarz.com), NVIDIA, "_Foundation Models and Microservices for Advancing Generative AI Research Running Efficiently on GPUs Anywhere_" |
+| 11:30 - 11:45 | Paper presentation 1 | Yingqing Yuan, USYD, "_KG-UQ: Knowledge Graph-Based Uncertainty Quantification for Long Text in Large Language Models_" |
+| 11:45 - 12:00 | Paper presentation 2 | Ning Ding, PKU, "_GPT4Image: Large Pre-trained Models Help Vision Models Learn Better on Perception Task_" |
+| 12:00 - 12:15 | Paper presentation 3 | Yanxiang Ma, USYD, "_Your Diffusion Classifier is Naturally a Robust Classifier_" |
+| 12:15 - 12:30 | Special session of the Environmental Open Data Challenge | Xiaoyin Zhang, USYD |
+| 12:30 | Closing |
 
 **Location: ICC Sydney: International Convention & Exhibition Centre**
 
