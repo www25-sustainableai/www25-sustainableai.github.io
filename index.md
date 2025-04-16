@@ -71,7 +71,7 @@ Accepted papers will be posted on this workshop website. Papers accepted by a wo
 ## **Schedule** {#schedule}
 
 | 8:55-9:00 | Start | Opening Remarks |
-| 9:00 - 9:30 | Invited Talk 1 | TBD |
+| 9:00 - 9:30 | Invited Talk 1 | [Dr. Jerone Andrews](https://ai.sony/people/Jerone-Andrews/), Sony AI, TBD |
 | 9:30 - 10:00 | Invited Talk 2 | TBD |
 | 10:00 - 10:30 | Invited Talk 3 | TBD |
 | 10:30 - 11:00 | Morning tea |
