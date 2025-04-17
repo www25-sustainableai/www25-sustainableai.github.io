@@ -49,7 +49,7 @@ Accepted papers will be posted on this workshop website. Papers accepted by a wo
 
 - **HSF: Defending against Jailbreak Attacks with Hidden State Filtering**
 
-  Cheng Qian (Beihang University), Hainan Zhang (Beihang University), Lei Sha (Beihang University), Zhiming Zheng (Beihang University)
+  Cheng Qian (Beihang University), Hainan Zhang (Beihang University), Lei Sha (Beihang University)
 
 - **KG-UQ: Knowledge Graph-Based Uncertainty Quantification for Long Text in Large Language Models**
 
