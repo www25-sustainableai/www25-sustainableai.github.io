@@ -82,7 +82,7 @@ Accepted papers will be posted on this workshop website. Papers accepted by a wo
 | 12:15 - 12:30 | Special session of AU Environmental Open Data Challenge | Xiaoyin Zhang, USYD, "_Solar First: A Data-Driven Roadmap for Regional Clean Energy Deployment_" |
 | 12:30 | Closing |
 
-**Location: ICC Sydney: International Convention & Exhibition Centre**
+**Location: Room C4.10, ICC Sydney: International Convention & Exhibition Centre**
 
 ---
 
