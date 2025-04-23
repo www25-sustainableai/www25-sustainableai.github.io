@@ -73,13 +73,12 @@ Accepted papers will be posted on this workshop website. Papers accepted by a wo
 | 8:55-9:00 | Start | Opening Remarks |
 | 9:00 - 9:30 | Invited Talk 1 | [Dr. Jerone Andrews](https://ai.sony/people/Jerone-Andrews/), Sony AI, TBD |
 | 9:30 - 10:00 | Invited Talk 2 | [Dr. Tomasz Bednarz](http://tomaszbednarz.com), NVIDIA, "_Foundation Models and Microservices for Advancing Generative AI Research Running Efficiently on GPUs Anywhere_" |
-| 10:00 - 10:30 | Invited Talk 3 | [Prof. Flora Salim](https://fsalim.github.io),UNSW, TBD |
+| 10:00 - 10:30 | Invited Talk 3 | [Prof. Flora Salim](https://fsalim.github.io), The University of New South Wales, TBD |
 | 10:30 - 11:00 | Morning tea |
-| 11:00 - 11:30 | Invited Talk 4 | TBD |
-| 11:30 - 11:45 | Paper presentation 1 | Yingqing Yuan, USYD, "_KG-UQ: Knowledge Graph-Based Uncertainty Quantification for Long Text in Large Language Models_" |
-| 11:45 - 12:00 | Paper presentation 2 | Ning Ding, PKU, "_GPT4Image: Large Pre-trained Models Help Vision Models Learn Better on Perception Task_" |
-| 12:00 - 12:15 | Paper presentation 3 | Cheng Qian, BUAA, "_HSF: Defending against Jailbreak Attacks with Hidden State Filtering_" |
-| 12:15 - 12:30 | Special session of AU Environmental Open Data Challenge | Xiaoyin Zhang, USYD, "_Solar First: A Data-Driven Roadmap for Regional Clean Energy Deployment_" |
+| 11:00 - 11:15 | Paper presentation 1 | Cheng Qian, Beihang University, "_HSF: Defending against Jailbreak Attacks with Hidden State Filtering_" |
+| 11:15 - 11:45 | Invited Talk 4 | TBD |
+| 11:45 - 12:15 | Invited Talk 5 | Prof. Fengli Xu, Tsinghua University, TBD |
+| 12:15 - 12:30 | Paper presentation 2 | Yingqing Yuan, The University of Sydney, "_KG-UQ: Knowledge Graph-Based Uncertainty Quantification for Long Text in Large Language Models_" |
 | 12:30 | Closing |
 
 **Location: Room C4.10, ICC Sydney: International Convention & Exhibition Centre**
