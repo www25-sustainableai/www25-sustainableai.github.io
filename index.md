@@ -71,7 +71,7 @@ Accepted papers will be posted on this workshop website. Papers accepted by a wo
 ## **Schedule** {#schedule}
 
 | 8:55-9:00 | Start | Opening Remarks |
-| 9:00 - 9:30 | Invited Talk 1 | [Dr. Jerone Andrews](https://ai.sony/people/Jerone-Andrews/), Sony AI, TBD |
+| 9:00 - 9:30 | Invited Talk 1 | [Dr. Jerone Andrews](https://ai.sony/people/Jerone-Andrews/), Sony AI, "_Ethical Considerations for Responsible Data Curation_" |
 | 9:30 - 10:00 | Invited Talk 2 | [Dr. Tomasz Bednarz](http://tomaszbednarz.com), NVIDIA, "_Foundation Models and Microservices for Advancing Generative AI Research Running Efficiently on GPUs Anywhere_" |
 | 10:00 - 10:30 | Invited Talk 3 | [Prof. Flora Salim](https://fsalim.github.io), The University of New South Wales, TBD |
 | 10:30 - 11:00 | Morning tea |
