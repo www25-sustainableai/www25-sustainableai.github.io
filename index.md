@@ -76,8 +76,8 @@ Accepted papers will be posted on this workshop website. Papers accepted by a wo
 | 10:00 - 10:30 | Invited Talk 3 | [Prof. Flora Salim](https://fsalim.github.io), The University of New South Wales, “_Data-efficient, robust, and continual time-series and multimodal open world learning_” |
 | 10:30 - 11:00 | Morning tea |
 | 11:00 - 11:15 | Paper presentation 1 | Cheng Qian, Beihang University, "_HSF: Defending against Jailbreak Attacks with Hidden State Filtering_" |
-| 11:15 - 11:45 | Invited Talk 4 | [Prof. Abraham Bernstein](https://www.ifi.uzh.ch/en/ddis/people/bernstein.html), University of Zurich, TBD |
-| 11:45 - 12:15 | Invited Talk 5 | [Prof. Fengli Xu](https://fenglixu.github.io), Tsinghua University, "_Efficient Reasoning and Optimization Frameworks for LLM Agents_" |
+| 11:15 - 11:45 | Invited Talk 4 | [Prof. Fengli Xu](https://fenglixu.github.io), Tsinghua University, "_Efficient Reasoning and Optimization Frameworks for LLM Agents_" |
+| 11:45 - 12:15 | Invited Talk 5 | [Prof. Abraham Bernstein](https://www.ifi.uzh.ch/en/ddis/people/bernstein.html), University of Zurich, TBD |
 | 12:15 - 12:30 | Paper presentation 2 | Yingqing Yuan, The University of Sydney, "_KG-UQ: Knowledge Graph-Based Uncertainty Quantification for Long Text in Large Language Models_" |
 | 12:30 | Closing |
 
